@@ -35,7 +35,7 @@
         </div>
         <div class="row align-items-center mt-4">
         <div class="col">
-          <input class="form-control me-2 search-field" type="search" placeholder="Add your available ingredients">
+          <input class="form-control me-2 search-field typeahead" data-provide="typeahead" type="search" placeholder="Add your available ingredients">
         </div>
         <div class="col">
           <a class="btn btn-primary btn-lg submit-btn" href="#" role="button">Recommend</a>
@@ -45,3 +45,21 @@
     </div>
   </div>
 {% endblock content %}
+{% block scripts%}
+<script>
+ var $input = $(".typeahead").typeahead({
+  source: ["one", "two", "three"],
+  autoSelect: true,
+ });
+
+$input.change(function () {
+var current = $input.typeahead("getActive");
+matches = [];
+if (current) {
+  if (current.name == $input.val()) {
+ matches.push(current.name);
+}
+}
+});
+</script>
+{% endblock scripts%}
