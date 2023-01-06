@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(219, 218, 218)
+}
+
+.search-field {
+    height: 50px;
+    border-radius: 20px;
+}
+
+.submit-btn {
+    border-radius: 20px;
+}
