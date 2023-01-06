@@ -2,6 +2,10 @@ body {
     background-color: rgb(219, 218, 218)
 }
 
+.custom-color {
+    background-color: rgb(219, 218, 218)
+}
+
 .search-field {
     height: 50px;
     border-radius: 20px;
@@ -9,4 +13,14 @@ body {
 
 .submit-btn {
     border-radius: 20px;
+}
+
+.ing {
+    background-color: rgb(242, 248, 248);
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.cross-btn:hover {
+    color: red;
 }

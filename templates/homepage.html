@@ -35,31 +35,112 @@
         </div>
         <div class="row align-items-center mt-4">
         <div class="col">
-          <input class="form-control me-2 search-field typeahead" data-provide="typeahead" type="search" placeholder="Add your available ingredients">
+          <input value="" class="form-control me-2 search-field typeahead" data-provide="typeahead" type="search" placeholder="Add your available ingredients">
         </div>
         <div class="col">
           <a class="btn btn-primary btn-lg submit-btn" href="#" role="button">Recommend</a>
         </div>
       </div>
+
+      <div class="row p-1" id="id-ingredient">
+       <!-- Will be populated by DOM -->
+      </div>      
+        
+      </div>
+      <!-- <div class="row mt-4">
+        <div class="col p-1">
+          <div class="card custom-color" style="width: 10rem;">
+            <img src="https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60&w=500&h=400" class="card-img-top" alt="...">
+            <a href="#">
+              <h5 class="card-title mt-1">Biryani</h5>
+            </a>
+          </div>
+        </div>
+        <div class="col p-1">
+          <div class="card custom-color" style="width: 10rem;">
+            <img src="https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60&w=500&h=400" class="card-img-top" alt="...">
+            <a href="#">
+              <h5 class="card-title mt-1">Biryani</h5>
+            </a>
+          </div>
+        </div>
+      </div> -->
+
       </div>
     </div>
   </div>
 {% endblock content %}
 {% block scripts%}
 <script>
- var $input = $(".typeahead").typeahead({
-  source: ["one", "two", "three"],
+
+
+let response;
+let matches = [];
+
+
+async function fetchIngredients() {
+    const res = await fetch("ingredients")
+    response = await res.json()
+  }
+
+async function autocomplete() {
+  await fetchIngredients()
+  var $input = $(".typeahead").typeahead({
+  source: response.ingredients,
   autoSelect: true,
  });
 
+
 $input.change(function () {
 var current = $input.typeahead("getActive");
-matches = [];
 if (current) {
-  if (current.name == $input.val()) {
- matches.push(current.name);
+  if (current === $input.val()) {
+        if (!matches.includes(current)) {
+          matches.push(current);
+          addIngredient(current)
+        }
+        $input.val("")    
+      }
+    }
+  });
 }
-}
-});
+
+
+function addIngredient(name) {
+    let row = document.querySelector("#id-ingredient")
+  row.innerHTML += `
+      <div class="col-4 mt-2">
+          <div class="ing">
+              ${name}
+              <span class="cross-btn" data-name=${name.replace(" ", "-")}>
+                <i id="cross-icon" class="bi bi-x"></i>
+              </span>
+          </div>
+      </div>`
+  attachCrossIconOnclick()
+ }
+
+
+function removeIngredient(name) {
+  matches = matches.filter(item => item !== name)
+  let row = document.querySelector("#id-ingredient")
+  row.innerHTML = ""
+  matches.forEach((item) => {
+    addIngredient(item)
+  })
+ }
+
+ function attachCrossIconOnclick() {
+    const ingredients = document.querySelectorAll('[data-name]');
+    ingredients.forEach(item => {
+      item.addEventListener("click", () => {
+        const name = item.dataset.name.replace("-", " ")
+        removeIngredient(name)
+      })
+    })
+  }
+
+autocomplete()
+
 </script>
 {% endblock scripts%}

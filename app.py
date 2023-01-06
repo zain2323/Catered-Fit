@@ -22,5 +22,12 @@ def predict():
     top_5_foods = getFoodName(predictions[0:5], X_dict)
     return render_template("homepage.html", foods=top_5_foods)
 
+
+@app.get("/ingredients")
+def get_ingredients():
+    response = { 
+        "ingredients": ingredients
+    }
+    return jsonify(response)
 if __name__ == "__main__":
     app.run(debug=True)
