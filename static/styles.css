@@ -24,3 +24,7 @@ body {
 .cross-btn:hover {
     color: red;
 }
+
+.food:hover {
+    color: blue
+}

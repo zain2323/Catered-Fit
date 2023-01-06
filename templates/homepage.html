@@ -45,26 +45,10 @@
       <div class="row p-1" id="id-ingredient">
        <!-- Will be populated by DOM -->
       </div>      
-        
+      <div class="row mt-4" id="predicted-foods">
+        <!-- Will be populated by DOM -->
       </div>
-      <!-- <div class="row mt-4">
-        <div class="col p-1">
-          <div class="card custom-color" style="width: 10rem;">
-            <img src="https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60&w=500&h=400" class="card-img-top" alt="...">
-            <a href="#">
-              <h5 class="card-title mt-1">Biryani</h5>
-            </a>
-          </div>
-        </div>
-        <div class="col p-1">
-          <div class="card custom-color" style="width: 10rem;">
-            <img src="https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60&w=500&h=400" class="card-img-top" alt="...">
-            <a href="#">
-              <h5 class="card-title mt-1">Biryani</h5>
-            </a>
-          </div>
-        </div>
-      </div> -->
+      </div>
 
       </div>
     </div>
@@ -152,7 +136,39 @@ function removeIngredient(name) {
   }
 
 recommendBtn.addEventListener("click", () => {
-  const course = getRadioButtonValue()
+  if (matches.length < 3) {
+    alert("Ingredients must be atleast 3")
+    return
+  }
+
+  const data = {
+    "ingredients": matches,
+    course: getRadioButtonValue()
+  }
+
+  fetch("predict", {
+    method: "POST",
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify(data)
+  })
+  .then(res => res.json())
+  .then(data => {
+    let row = document.querySelector("#predicted-foods")
+    row.innerHTML = ""
+    data.foods.forEach(food => {
+      const html = `
+      <div class="col-4 p-1">
+          <div class="card custom-color" style="width: 10rem;">
+            <img src="https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60&w=500&h=350" class="card-img-top" alt="...">
+              <h5 class="card-title mt-1 food">${food}</h5>
+          </div>
+      </div>`
+      row.innerHTML += html
+    })
+
+  })
   
 })
   
