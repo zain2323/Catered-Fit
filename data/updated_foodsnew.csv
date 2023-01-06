@@ -1,0 +1,256 @@
+name,ingredients,diet,flavor_profile,course
+glazed doughnuts,"oil, sugar, milk, vanilla, eggs, yeast, butter",vegetarian,sweet,dessert
+bundia,"gram flour, ghee, sugar",vegetarian,sweet,dessert
+gajar ka halwa,"carrots, milk, sugar, ghee, cashews, raisins",vegetarian,sweet,dessert
+ghevar,"flour, ghee, kewra, milk, clarified butter, sugar, almonds, pistachios, saffron, green cardamom",vegetarian,sweet,dessert
+gulab jamun,"milk powder, flour, baking powder, ghee, milk, sugar, water, rose water",vegetarian,sweet,dessert
+amriti,"sugar syrup, flour",vegetarian,sweet,dessert
+jalebi,"maida, corn flour, baking soda, vinegar, curd, water, turmeric, saffron, cardamom",vegetarian,sweet,dessert
+kaju katli,"cashews, ghee, cardamom, sugar",vegetarian,sweet,dessert
+kalakand,"milk, cottage cheese, sugar",vegetarian,sweet,dessert
+kheer,"milk, rice, sugar, dry fruits",vegetarian,sweet,dessert
+laddu,"gram flour, ghee, sugar",vegetarian,sweet,dessert
+lassi,"yoghurt, milk, nuts, sugar",vegetarian,sweet,dessert
+nankhatai,"flour, besan, ghee, sugar, yoghurt, green cardamom",vegetarian,sweet,dessert
+pitha,"pumpkin, sugar, lemon, alum powder",vegetarian,sweet,dessert
+firni,"rice, sugar, nuts",vegetarian,sweet,dessert
+rabree,"condensed milk, sugar, spices, nuts",vegetarian,sweet,dessert
+suji halwa,"semolina, ghee, nuts, milk",vegetarian,sweet,dessert
+singori,"khoya, coconut, molu leaf",vegetarian,sweet,dessert
+sohan halwa,"corn flour, ghee, dry fruits",vegetarian,sweet,dessert
+soha papri,"gram flour, ghee, sugar, milk, cardamom",vegetarian,sweet,dessert
+chena jalebi,"cheese, sugar, ghee",vegetarian,sweet,dessert
+condensed milk firni,"cheese, sugar, milk",vegetarian,sweet,dessert
+cheesecake,"sugar, cheese cheese",vegetarian,sweet,dessert
+cham cham ,"flour, cream, sugar, saffron, lemon juice, coconut flakes",vegetarian,sweet,dessert
+cottage cheese dumplings,"cheese, condensed milk, sugar, saffron, cardamom",vegetarian,sweet,dessert
+baray gulab jamun,"cheese, sugar, ghee",vegetarian,sweet,dessert
+purified milk sweet,"flour, milk powder, sugar syrup",vegetarian,sweet,dessert
+banana milk pudding ,"banana, milk powder, sugar",vegetarian,sweet,dessert
+Fine grain,"besan, sugar, ghee",vegetarian,sweet,dessert
+panna cotta,"milk, jelly,sugar",vegetarian,sweet,dessert
+cottage cheese gulab jamun,"cheese, sugar, ghee, flour",vegetarian,sweet,dessert
+pithe,"rice flour, sugar, ghee",vegetarian,sweet,dessert
+condensed milk jamun,"cheese, milk, suagr",vegetarian,sweet,dessert
+ras malai,"cheese, milk, pistachios",vegetarian,sweet,dessert
+rasgulla,"cheese, sugar, cardamom",vegetarian,sweet,dessert
+patisa,"milk, sugar, saffron, cardamom",vegetarian,sweet,dessert
+doughnut pastry,"rice flour, jaggery, ghee, oil, elachi, sugar",vegetarian,sweet,dessert
+riceballs,"rice flour, jaggery, ghee, sugar",vegetarian,sweet,dessert
+raisin ladoo,"besan, jaggery, cardamom powder, ghee, cashews, raisins, jaggery syrup, sugar",vegetarian,sweet,dessert
+katkati,"peanuts, jaggery, sugar",vegetarian,sweet,dessert
+sugar balss,"thickened milk, sugar",vegetarian,sweet,dessert
+shahi tukra,"bread, milk,strawberry",vegetarian,sweet,dessert
+sweet shells,"rice flour, sugar, salt, ghee, semolina",vegetarian,sweet,dessert
+barfi,"flour, sugar",vegetarian,sweet,dessert
+sweet fried dumplings,"black lentils, rice",vegetarian,sweet,dessert
+puff pastry ,"besan, semolina, mung bean, jaggery, coconut, milk powder, sugar, ghee",vegetarian,sweet,dessert
+methi paratha,"methi, turmeric, coconut, chickpeas, jaggery, ghee, cardamom",vegetarian,sweet,dessert
+rice noodles,"rice flour, milk",vegetarian,sweet,dessert
+sweet daal balls,"chana daal, jaggery",vegetarian,sweet,dessert
+sweet rice curd,"rice, jaggery, cashews, ghee",vegetarian,sweet,dessert
+rice sheets,"rice flour, sugar, ghee",vegetarian,sweet,dessert
+khubani ka meetha,"apricots, sugar syrup",vegetarian,sweet,dessert
+sheer korma,"vermicelli, milk, coconut, dried fruits",vegetarian,sweet,dessert
+small rice cakes,"rice flour, banana, jaggery, coconut",vegetarian,sweet,dessert
+coconut rice balls,"rice flour, jaggery, coconut",vegetarian,sweet,dessert
+poppy seed sweet twisters,"rice flour, jaggery, poppy seeds",vegetarian,sweet,dessert
+cardamom milk pudding,"sugar, milk, nuts",vegetarian,sweet,dessert
+jackfruit cake,"jackfruit,milk",vegetarian,sweet,dessert
+doodhpak,"milk, rice, sugar, dry fruits",vegetarian,sweet,dessert
+zarda,"milk, sugar,saffron",vegetarian,sweet,dessert
+wheat dumplings,"wheat, coconut, jaggery ",vegetarian,sweet,dessert
+shakarpari,"sugar, ghee, maida, semolina",vegetarian,sweet,dessert
+saffron delight,"curd, sugar, saffron, cardamom",vegetarian,sweet,dessert
+shredded pistachios curd,"maida, sugar, pistachios,yoghurt",vegetarian,sweet,dessert
+fish curry,"fish, tomatoes, chillies, ginger, garlic",non vegetarian,spicy,main course
+bengan bharta,"brinjal, onions, chillies, ginger, garlic",non vegetarian,spicy,main course
+mango kheer,"rice, milk, sugar, cardamom,mango",vegetarian,sweet,dessert
+spicy rice,"rice, salt, water, chillies",non vegetarian,spicy,main course
+aloo gobi,"cauliflower, potatoes, garam masala, turmeric, curry leaves",vegetarian,spicy,main course
+aloo tikki,"rice flour, potatoes, bread crumbs, garam masala, salt",vegetarian,spicy,main course
+aloo matar,"potatoes, peas, chillies, ginger, garam masala, garlic",vegetarian,spicy,main course
+aloo methi,"potatoes, fenugreek leaves, chillies, salt, oil",vegetarian,bitter,main course
+aloo shimla mirch,"potatoes, shimla mirch, garam masala, amchur powder, salt",vegetarian,spicy,main course
+bhatura,"chickpeas, yoghurt, flour, baking soda",vegetarian,spicy,main course
+bhindi masala,"ladies finger, garam masala, kasuri methi, tomatoes, chillies",vegetarian,spicy,main course
+biryani,"chicken, rice, star anise, green chillies, biryani masala",non vegetarian,spicy,main course
+butter chicken,"chicken, greek yoghurt, cream, garam masala, cashews, butter",non vegetarian,spicy,main course
+chana masala,"chickpeas, tomatoes, garam masala, ginger, onions, oil",vegetarian,spicy,main course
+chapati,"flour, oil",vegetarian,other,main course
+chicken garam masala,"chicken, yoghurt, sesame seeds, garam masala, cashews, saffron",non vegetarian,spicy,main course
+chicken tikka masala,"naan, tomatoes, chicken, cream, garam masala",non vegetarian,spicy,main course
+chicken tikka,"chicken, bread, rice flour, garam masala, eggs",non vegetarian,spicy,starter
+chole bhature,"chole, garam masala, bay leaf, cinnamon stick",vegetarian,spicy,main course
+daal baati churma,"moong daal, masoor daal, chana daal, flour, almonds",vegetarian,spicy,main course
+daal puri,"moong daal, garam masala, garlic, green chillies, flour",vegetarian,spicy,main course
+daal makhani ,"red kidney beans, urad daal, cream, garam masala, chillies",vegetarian,sweet,main course
+daal tarka,"peas, garam masala, ginger, onions, kasuri methi",vegetarian,spicy,main course
+dum aloo,"potatoes, garam masala, cashews, kasuri methi, tomatoes",vegetarian,spicy,main course
+flattened rice ,"beaten rice flakes, potatoes, curry leaves, green chillies, lemon juice",vegetarian,spicy,snack
+chanay papar,"chana daal, flour, arhar daal, urad daal, garam masala",vegetarian,spicy,snack
+kachori,"moong daal, rava, garam masala, dough, fennel seeds",vegetarian,spicy,snack
+karahi,"cottage cheese, bell peppers, gravy, garam masala, cashews",vegetarian,spicy,main course
+karhi,"besan, garam masala, gram flour, ginger, curry leaves",vegetarian,spicy,main course
+karela bharta,"bitter gourd, fennel, garam masala, chillies, amchur powder",vegetarian,bitter,main course
+khichri,"moong daal, green peas, ginger, tomatoes, green chillies",vegetarian,spicy,main course
+kofta,"paneer, potatoes, cream, corn flour, garam masala",vegetarian,spicy,main course
+kulfi falooda,"rose syrup, falooda sev, mixed nuts, saffron, sugar",vegetarian,sweet,dessert
+lauki kofte,"bottle gourd, garam masala, gram flour, ginger, chillies",vegetarian,spicy,main course
+lauki sabzi,"bottle gourd, oil, garam masala, ginger, green chillies",vegetarian,spicy,main course
+stuffed wheat balls,"flour, gram flour, tomatoes, nigella seeds, chillies",vegetarian,spicy,main course
+makki di roti sarson da saag,"mustard, makki flour, mustard green, garam masala, ginger",vegetarian,spicy,main course
+spicy roti,"flour, gram flour, green chillies",vegetarian,spicy,main course
+mushrooms do pyaza,"mushrooms, malai, garam masala, ginger, capsicum",vegetarian,spicy,main course
+mushrooms matar,"coconut milk, frozen green peas, mushrooms, garam masala, tomatoes",vegetarian,spicy,main course
+naan,"flour, honey, butter, garlic",vegetarian,other,main course
+green beans korma,"green beans, potatoes, khus khus, low fat, garam masala",vegetarian,spicy,main course
+palak paneer,"cottage cheese, palak, cream, garam masala, butter",vegetarian,spicy,main course
+paneer butter masala,"paneer, cream, garam masala, cashews, butter",vegetarian,spicy,main course
+paneer tikka masala,"paneer, greek yoghurt, tandoori masala, cream, bell peppers",vegetarian,spicy,main course
+pani puri,"kala chana, potatoes, boondi, sev, lemon",vegetarian,spicy,snack
+panjeeri,"flour, musk melon seeds, poppy seeds, edible gum, semolina",vegetarian,sweet,dessert
+papar,"urad daal, sev, lemon juice, tomatoes",vegetarian,spicy,snack
+paratha,"flour, butter, potatoes, coriander",vegetarian,spicy,main course
+arivi sabzi,"arvi, sesame seeds, gur, imli",vegetarian,spicy,main course
+methi chana,"fennel, tea bags, tomatoes, methi, cinnamon",vegetarian,spicy,main course
+rajma chawal,"red kidney beans, garam masala, ginger, tomatoes, oil",vegetarian,spicy,main course
+lobia,"garam masala, tomatoes, kasuri methi, cinnamon, oil",vegetarian,other,main course
+samosa,"potatoes, green peas, garam masala, ginger, dough",vegetarian,spicy,snack
+sattu ki roti,"sattu, flour, dough, filling, oil",vegetarian,spicy,main course
+shahi paneer,"cottage cheese, malai, garam masala, ginger, tomatoes",vegetarian,spicy,main course
+shahi tukra,"rose water, milk, bread, saffron, almonds",vegetarian,sweet,dessert
+vegetable jalfrezi,"corn, french beans, garam masala, ginger, carrots",vegetarian,spicy,main course
+tandoori chicken,"greek yoghurt, garam masala, kasuri methi, marinade, oil",non vegetarian,spicy,main course
+tandoori fish tikka,"gram flour, biryani masala, yoghurt, fish filletss, green bell peppers",non vegetarian,spicy,starter
+dosa,"flour, arhar daal, ginger, kala zeera, green chillies",vegetarian,spicy,snack
+boiled banana curry,"banana, long beans, urad daal",vegetarian,spicy,main course
+hot lentil rice ,"pigeon peas, chana daal, urad daal, green peas, french beans",vegetarian,spicy,main course
+curry pulao,"chana daal, urad daal, coconut, sesame seeds, curry leaves",vegetarian,spicy,main course
+cheese dosa,"chana daal, urad daal, urad daal, rice, rock salt, cheese",vegetarian,spicy,snack
+rice noodles,"rice flour, water, coconut",vegetarian,spicy,snack
+savoury rice cake,"urad daal, urad daal, idli rice, rock salt",vegetarian,spicy,snack
+rice daal,"rice, carrots, mustard, red chillies, black salt",vegetarian,other,snack
+vegetable gravy,"oil, drumsticks, tamarind paste, sambar powder, tomatoes",vegetarian,spicy,main course
+spinach moong daal,"moong daal, chana daal, spinach, urad daal, oil",vegetarian,spicy,main course
+spinach stew,"urad daal, curry leaves, sugar, mustard seeds, spinach",vegetarian,spicy,main course
+spinach daal,"tomatoes, mustard seeds, fenugreek seeds,spinach,daal",vegetarian,spicy,main course
+spinach salad,"amaranth leaves, urad daal, mustard seeds, grated coconut, red chillies,spinach",vegetarian,spicy,main course
+beef fry,"beef, coconut, garam masala, curry leaves, green chillies, chillies",non vegetarian,spicy,main course
+vegetable stew,"chana daal, urad daal, potatoes, beans, peas",vegetarian,spicy,main course
+cabbage stew,"moong daal, chana daal, cabbage, tamarind, curry leaves",vegetarian,spicy,main course
+vegetable salad,"moong daal, cucumber, curry leaves, green chillies, lemon juice",vegetarian,spicy,main course
+coriander rice,"chana daal, urad daal, gooseberry, rice, curry leaves,coriander",vegetarian,spicy,main course
+steamed coconut dumplings,"oil, rice, jaggery, grated coconut",vegetarian,spicy,main course
+tamarind curry,"pearl onions, urad daal, drumsticks, tomatoes, curry leaves,tamarind",vegetarian,spicy,main course
+masala dosa,"chana daal, urad daal, potatoes, idli rice, thick poha",vegetarian,spicy,snack
+coconut pickle ,"oil, cucumber, curd, curry leaves, mustard seeds",vegetarian,other,main course
+fried rice lentil dumplings,"yoghurt, ginger, curry leaves, baking soda, green chillies",vegetarian,other,main course
+lentil crackers,"lentils, black pepper, oil",vegetarian,spicy,snack
+lemon kheer,"rice,  khoya, milk,lemon ",vegetarian,spicy,main course
+choco pie,"rice, cashews, milk, raisins, sugar,flour, cake mix, chocolate",vegetarian,sweet,dessert
+one pot rice,"arhar daal, sambar powder, tomatoes, curry leaves, fennel seeds,rice",vegetarian,other,main course
+moong beans crepe,"green moong beans, rice flour",vegetarian,spicy,snack
+stir fry coconut rice,"chana daal, urad daal, beans, coconut, mustard,rice",vegetarian,spicy,main course
+tamarind rice,"urad daal, lemon, tamarind, rice, curry leaves",vegetarian,other,main course
+tomato soup,"tomatoes, curry leaves, garlic, mustard seeds, water",vegetarian,spicy,main course
+portioned rice rolls,"rice flour, sugar, coconut",vegetarian,other,main course
+cauliflower porridge,"pigeon peas, eggsplant, drumsticks, sambar powder, tamarind, cauliflower",vegetarian,spicy,main course
+cheese papar,"thin rice flakes, black sesame seeds, curry leaves,cheese",vegetarian,other,main course
+siwai,"sevai, parboiled rice, steamer",vegetarian,other,main course
+curd rice,"urad daal, curd, oil, ginger, curry leaves, mustard seeds,rice",vegetarian,other,main course
+red bean soup,"coconut, red beans, masala, oil, tamarind",vegetarian,other,main course
+savoury pancake,"chana daal, urad daal, thick poha, tomatoes, butter",vegetarian,spicy,snack
+potato cutlets,"urad daal, ginger, curry leaves, green chillies, black pepper,potatoes",vegetarian,spicy,snack
+chicken stir fry,"meat curry powder, chicken, ginger, tomatoes, cinnamon",non vegetarian,spicy,main course
+upma,"chana daal, urad daal, ginger, curry leaves, sugar",vegetarian,spicy,snack
+sweet and sour daal,"kala masala, arhar daal, curry leaves, mustard seeds, water",vegetarian,spicy,main course
+spicy gram flour,"gram flour, mustard, garlic, turmeric, red chillies",vegetarian,spicy,main course
+prawn salad,"prawns, oil, coconut, ginger",non vegetarian,spicy,main course
+suji dumplings,"urad daal, potatoes, flour, suji",vegetarian,spicy,main course
+bajray rooti,"flour, millet flour",vegetarian,spicy,main course
+coconut barfi,"condensed milk, mawa, desiccated coconut, almonds, cashews",vegetarian,sweet,dessert
+steamed flatbread,"jowar flour, sesame seeds",vegetarian,other,main course
+fried duck soup,"bombay duck, malvani masala, rice flour, green chillies",non vegetarian,spicy,main course
+spiral sweet rolls,"rice flour, sesame, flour, turmeric, red chillies",vegetarian,spicy,snack
+fried potato crisps,"potatoes,salt, pepper",vegetarian,spicy,snack
+cholay papar,"urad daal, gram flour, dried mango, baking soda, black salt",vegetarian,spicy,snack
+khopra barfi,"condensed milk, nestle cream, coconut ice, red food coloring, desiccated coconut",vegetarian,other,main course
+daal cake,"flour, daal, kokum, gur, gram flour",vegetarian,spicy,main course
+potato stuffed bun,"pav, potatoes, peanuts, pomegranate, star anise",vegetarian,spicy,snack
+dahi baray,"urad daal, bhuna chana, garam masala, dates, tamarind, yoghurt",vegetarian,other,snack
+lentil daal,"lentils, oil, curry leaves, mustard seeds, red chillies",vegetarian,other,main course
+savoury coconut cake,"coconut, gram flour, mustard, sesame",vegetarian,spicy,snack
+dudhi halwa,"bottle gourd, raisins, sugar, clarified butter",vegetarian,spicy,main course
+butter chicken stew,"yoghurt, besan, sauce, garam masala, gram flour,chicken, butter",vegetarian,spicy,main course
+gur papri,"flour, jaggery, clarified butter, almonds",vegetarian,sweet,dessert
+sweet samosa,"dry fruits, semolina, flour",vegetarian,spicy,snack
+vegetable cake,"bottle gourd, chana daal, cabbage, urad daal, toor daal",vegetarian,spicy,snack
+halwa roll,"rava, chia seed, lemon, edible gum, milk",vegetarian,sweet,dessert
+zeera aloo,"green chillies, lemon juice, chillies, potatoes",vegetarian,spicy,main course
+cashews delight,"flour, cashews, oil",vegetarian,other,main course
+aam ras,"mango, sugar",vegetarian,sour,main course
+spicy papar,"flour, low fat, gram flour",vegetarian,spicy,snack
+gram flour rolls,"green chillies, sesame seeds, gram flour, curry leaves",vegetarian,spicy,snack
+peppercorn curry,"rice flour, urad daal, flour, gram flour, turmeric, peppercorn",vegetarian,spicy,snack
+ghee stuffed rolls,"cinnamon, jaggery, clarified butter, dry roasted",vegetarian,spicy,main course
+veggie yoghurt salad,"cucumber, carrots, tomatoes, cilantro",vegetarian,spicy,main course
+methi laddoo,"gram flour, lemon juice, turmeric, fenugreek leaves",vegetarian,bitter,main course
+almond confectionary sweet,"rose water, pistachios, almonds, gram flour, saffron",vegetarian,sweet,dessert
+fenugreek rolls,"bottle gourd, flour, rava, sesame seeds, gram flour,fenuugreek",vegetarian,bitter,snack
+patra,"arbi ke patte, sesame seeds, gur, gram flour, imli",vegetarian,spicy,snack
+pao bhaji,"pao bhaji masala, gobi, potatoes, green peas, dinner rolls",vegetarian,spicy,main course
+puri bhaji,"potatoes, urad daal, mustard, ginger, curry leaves",vegetarian,spicy,main course
+sabudana khichri,"peanuts, sabudana, lemon, oil, curry leaves, green chillies",vegetarian,spicy,snack
+chickpeas seo,"pomegranate, seo, chickpeas",vegetarian,spicy,main course
+tomato seo,"seo, ginger, tomatoes",vegetarian,spicy,main course
+namakpara,"flour, baking soda, flour, black pepper, sunflower oil",vegetarian,spicy,snack
+gur kheer,"flour, gur, clarified butter",vegetarian,sweet,dessert
+lemon dosa,"rice flakes, yoghurt, rice, jaggery, grated coconut,lemon",vegetarian,spicy,snack
+multigrain bread,"flour, rice flour, millet flour, sesame seeds",vegetarian,spicy,main course
+mixed vegetable stew,"potatoes, surti papdi, potatoes, valor papdi, green peas",vegetarian,spicy,main course
+ved gravy,"gobi, potatoes, beans, khus khus, coconut",vegetarian,spicy,main course
+vindaaloo,"chicken, oil, vinegar, ginger, cinnamon",non vegetarian,spicy,main course
+garlic kachori,"green garlic chutney, green peas, ginger, lemon juice, flour",vegetarian,spicy,snack
+chana daal,"moong beans, jaggery, red chillies, oil, salt, chickpeas, daal",vegetarian,spicy,snack
+sesame seed papar,"rice flour, sesame seeds, baking soda, oil",vegetarian,spicy,snack
+paratha aloo,"potatoes, flour",vegetarian,spicy,snack
+paratha daal," flour, black pepper,daal",vegetarian,other,snack
+paratha methi,"methi, gram flour",vegetarian,spicy,snack
+paratha butter,"gram flour, butter",vegetarian,spicy,main course
+churma ladoo,"flour, khus khus, sesame seeds, dry coconut, gur",vegetarian,sweet,dessert
+mango pie,"rice, mango, curd, cake mix",vegetarian,sweet,dessert
+geela pitha,"rice, rice flour, jaggery, orange",vegetarian,sweet,dessert
+nihari,"chicken,spices, corn flour",non vegetarian,spicy,main course
+kabuli pulao,"rice, beef, saffron, spices",non vegetarian,spicy,main course
+haleem,"chicken , chickpeas, onions",non vegetarian,spicy,main course
+mango lassi,"mango, milk, curd",non vegetarian,sweet,snack
+strawberry lassi,"strawberry, milk, sugar, curd",non vegetarian,sweet,main course
+malai boti ,"yoghurt, chicken, spices",non vegetarian,spicy,main course
+tikka boti,"chicken, spices, garlic, yoghurt",non vegetarian,spicy,main course
+black rice,"forbidden black rice, chicken, oil, almonds, garlic",non vegetarian,other,main course
+beef biryani,"biryani masala, spices, beef, ",vegetarian,spicy,main course
+brown rice,"brown rice, soy sauce, oil",vegetarian,other,main course
+malai curry,"coconut milk, lobster, green chillies, ginger, onions",non vegetarian,spicy,main course
+buttered delights,"baking soda, clarified butter, oil, flour",vegetarian,sweet,dessert
+siwayaian,"vermicelli, milk, cardamom, pistachios",vegetarian,sweet,dessert
+lamb curry,"lamb, garam masala, curd, turmeric, bay leaf",non vegetarian,spicy,main course
+sajji,"chicken, garlic, chillies, potatoes",non vegetarian,other,main course
+fish fillet,"fish, besan, lemon, mint, ginger",non vegetarian,spicy,main course
+seekh kabab,"lamb, onions, garlic, coriander",vegetarian,spicy,main course
+chapli kabab,"beef, spices, yoghurt, coriander",non vegetarian,spicy,main course
+potato stew,"potatoes, tomatoes, oil, bay leaf, cinnamon stick",non vegetarian,spicy,main course
+duck stew,"rice flour,duck, gram flour, oil",non vegetarian,spicy,main course
+masor daal,"fish roe, pumpkin, oil, turmeric, tomatoes",non vegetarian,spicy,main course
+daal fry,"chana daal, coconut, ginger, cinnamon, raisins",vegetarian,sweet,main course
+chicken reshmi handi,"curd, rice, curry leaves, dry chillies, chicken, garlic, ",vegetarian,other,main course
+pani pitha,"tea leaves, sesame seeds, dry coconut, rice",vegetarian,other,main course
+saffron pulao,"rice, rose water, sugar, clarified butter, cardamom pods, saffron",vegetarian,sweet,dessert
+prawn malai curry,"coconut milk, prawns, garlic, turmeric, sugar",non vegetarian,spicy,main course
+red rice,"red pepper, onions, butter, watercress, oil",vegetarian,other,main course
+curry,"green beans, bitter gourd, ridge gourd, banana, brinjal",vegetarian,spicy,main course
+til pitha,"black sesame seeds, gur",vegetarian,sweet,dessert
+coconut cream pudding,"coconut milk, eggs, clarified butter, flour",vegetarian,sweet,dessert
+dates delight,"cottage cheese, dry dates, dried rose petals, pistachios, almonds",vegetarian,sweet,dessert
+orange mil delight,"orange,milk powder, dry fruits, arrowroot powder, flour",vegetarian,sweet,dessert
+pulao,"rice, fennel seeds, chicken, grated coconut, black pepper, ginger, green chillies",vegetarian,sweet,main course
