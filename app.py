@@ -21,10 +21,7 @@ def predict():
     predictions = np.argsort(-probabilities).flatten()
     top_5_foods = getFoodName(predictions[0:6], X_dict)
     response = { "foods": top_5_foods }
-    print(response)
     return jsonify(response)
-    # print(top_5_foods)
-    # return render_template("homepage.html", foods=top_5_foods)
 
 
 @app.get("/ingredients")
