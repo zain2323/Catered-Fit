@@ -16,20 +16,20 @@
         <div class="row align-items-center mt-4">
           <div class="col">
             <div class="form-check form-check-inline">
-              <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+              <input class="form-check-input" type="radio" name="course" id="inlineRadio1" value="starter">
               <label class="form-check-label" for="inlineRadio1">Starter</label>
             </div>
             <div class="form-check form-check-inline">
-              <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+              <input class="form-check-input" type="radio" name="course" id="inlineRadio2" value="main course">
               <label class="form-check-label" for="inlineRadio2">Main Course</label>
             </div>
             <div class="form-check form-check-inline">
-              <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
-              <label class="form-check-label" for="inlineRadio2">Dessert</label>
+              <input class="form-check-input" type="radio" name="course" id="inlineRadio3" value="dessert">
+              <label class="form-check-label" for="inlineRadio3">Dessert</label>
             </div>
             <div class="form-check form-check-inline">
-              <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
-              <label class="form-check-label" for="inlineRadio2">Snack</label>
+              <input class="form-check-input" type="radio" name="course" id="inlineRadio4" value="snack">
+              <label class="form-check-label" for="inlineRadio4">Snack</label>
             </div>
           </div>
         </div>
@@ -38,7 +38,7 @@
           <input value="" class="form-control me-2 search-field typeahead" data-provide="typeahead" type="search" placeholder="Add your available ingredients">
         </div>
         <div class="col">
-          <a class="btn btn-primary btn-lg submit-btn" href="#" role="button">Recommend</a>
+          <a id="recommend-btn" class="btn btn-primary btn-lg submit-btn" role="button">Recommend</a>
         </div>
       </div>
 
@@ -76,7 +76,7 @@
 
 let response;
 let matches = [];
-
+const recommendBtn = document.getElementById("recommend-btn")
 
 async function fetchIngredients() {
     const res = await fetch("ingredients")
@@ -140,6 +140,22 @@ function removeIngredient(name) {
     })
   }
 
+  function getRadioButtonValue() {
+    let value;
+    const element = document.getElementsByName("course")
+    element.forEach(item => {
+      if (item.checked) {
+        value = item.value
+      }
+    })
+    return value
+  }
+
+recommendBtn.addEventListener("click", () => {
+  const course = getRadioButtonValue()
+  
+})
+  
 autocomplete()
 
 </script>
