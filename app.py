@@ -38,7 +38,7 @@ def get_ingredients():
 def get_food(name):
     food = getFoodDetails(name)
     name = (food.name.values[0]).capitalize()
-    # image = food.images.values[0]
+    image = food.images.values[0]
     ingredients = (food.ingredients.values[0]).split(",")
     ingredients = list(map(str.strip, ingredients))
     ingredients = list(map(str.title, ingredients))
@@ -46,7 +46,7 @@ def get_food(name):
     cook_time = int(food.cook_time.values[0])
     # Recommended foods based on the current viewing dish
     recommended_food, images = get_similar_foods(food.name.values[0])
-    return render_template("food.html", name=name, ingredients=ingredients, prep_time=prep_time, cook_time=cook_time, recommended_food=recommended_food, images=images, len=len)
+    return render_template("food.html", name=name, image=image, ingredients=ingredients, prep_time=prep_time, cook_time=cook_time, recommended_food=recommended_food, images=images, len=len)
 
 
 if __name__ == "__main__":
