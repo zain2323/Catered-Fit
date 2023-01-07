@@ -1,6 +1,6 @@
 from flask import Flask, render_template, jsonify, request
 import pickle
-from model import transform_input, getFoodName, initialize, getFoodDetails, get_similar_foods
+from model import transform_input, get_images_from_id, getFoodName, initialize, getFoodDetails, get_similar_foods, get_food_idx_list
 import numpy as np
 
 app = Flask(__name__)
@@ -20,7 +20,9 @@ def predict():
     probabilities = ml_model.predict_proba(encoded_input)
     predictions = np.argsort(-probabilities).flatten()
     top_5_foods = getFoodName(predictions[0:6], X_dict)
-    response = { "foods": top_5_foods }
+    top_5_foods_ids = get_food_idx_list(top_5_foods)
+    images = get_images_from_id(top_5_foods_ids)
+    response = { "foods": top_5_foods, "images": images }
     return jsonify(response)
 
 
@@ -36,14 +38,15 @@ def get_ingredients():
 def get_food(name):
     food = getFoodDetails(name)
     name = (food.name.values[0]).capitalize()
+    # image = food.images.values[0]
     ingredients = (food.ingredients.values[0]).split(",")
     ingredients = list(map(str.strip, ingredients))
     ingredients = list(map(str.title, ingredients))
     prep_time = int(food.prep_time.values[0])
     cook_time = int(food.cook_time.values[0])
     # Recommended foods based on the current viewing dish
-    recommended_food = get_similar_foods(food.name.values[0])
-    return render_template("food.html", name=name, ingredients=ingredients, prep_time=prep_time, cook_time=cook_time, recommended_foods=recommended_food)
+    recommended_food, images = get_similar_foods(food.name.values[0])
+    return render_template("food.html", name=name, ingredients=ingredients, prep_time=prep_time, cook_time=cook_time, recommended_food=recommended_food, images=images, len=len)
 
 
 if __name__ == "__main__":

@@ -42,12 +42,13 @@
             </div>
         <h1 class="display-6">You may also like</h1>
         <div class="row mt-2 mb-2">
-            {% for recommended_food in recommended_foods %}
+            {% for i in range(len(recommended_food)) %}
                 <div class="col-3 p-1">
                     <div class="card custom-color" style="width: 11rem;">
-                    <img src="https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60&w=500&h=350" class="card-img-top" alt="...">
-                        <a class="food" href="{{ url_for('get_food', name=recommended_food) }}"> 
-                        <h5 class="card-title mt-1 lead">{{ recommended_food }}</h5>
+                    <!-- <img src="https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60&w=500&h=350" class="card-img-top" alt="..."> -->
+                        <img src="{{ images[i] }}" class="card-img-top rec-img" alt="...">
+                        <a class="food" href="{{ url_for('get_food', name=recommended_food[i]) }}"> 
+                        <h5 class="card-title mt-1 lead">{{ recommended_food[i] }}</h5>
                         </a>  
                     </div>
                 </div>

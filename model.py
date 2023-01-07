@@ -6,7 +6,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import pickle
 
-df = pd.read_csv("./data/updated_foodsnew.csv")
+df = pd.read_csv("./data/updated_foodsnew2.csv")
 
 def unique_ingredients(df):
     new_ingredients = []
@@ -82,17 +82,25 @@ def getFoodName(foodIdList, X_dict):
     return food
 
 def get_food_from_idx(df, index):
-    return df[df.index == index]["name"].values[0]
+    name = df[df.index == index]["name"].values[0]
+    image = df[df.index == index]["images"].values[0]
+    return (name, image)
 
-# def get_food_idx(df, name_list):
-#     ids = []
-#     for food in name_list:
-#         cnt = 0
-#         for name in df["name"]:
-#             if food == name:
-#                 ids.append(cnt)
-#             cnt += 1 
-#     return ids
+def get_images_from_id(id_list):
+    images = []
+    for id in id_list:
+        images.append(df[df.index == id]["images"].values[0])
+    return images
+
+def get_food_idx_list(name_list):
+    ids = []
+    for food in name_list:
+        cnt = 0
+        for name in df["name"]:
+            if food == name:
+                ids.append(cnt)
+            cnt += 1 
+    return ids
 
 def get_food_idx(df, food):
     cnt = 0
@@ -107,16 +115,19 @@ def get_similar_foods(name):
     count_matrix = cv.fit_transform(df["ingredients"])
     cosine_sim = cosine_similarity(count_matrix)
     id = get_food_idx(df, name)
-    similar = []
+    foods = []
+    images = []
     similar_foods = list(enumerate(cosine_sim[id]))
     similar_foods = sorted(similar_foods,  key=lambda x:x[1], reverse=True)
     i = 0
     for food in similar_foods:
         if i > 8:
             break
-        similar.append(get_food_from_idx(df, food[0]))
+        food, image = get_food_from_idx(df, food[0])
+        foods.append(food)
+        images.append(image)
         i += 1
-    return similar[1:]
+    return (foods[1:], images[1:])
 
 def initialize():
     ingredients = unique_ingredients(df)

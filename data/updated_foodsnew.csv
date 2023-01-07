@@ -1,256 +1,256 @@
-name,ingredients,diet,flavor_profile,course,prep_time,cook_time
-glazed doughnuts,"oil, sugar, milk, vanilla, eggs, yeast, butter",vegetarian,sweet,dessert,45,25
-bundia,"gram flour, ghee, sugar",vegetarian,sweet,dessert,80,30
-gajar ka halwa,"carrots, milk, sugar, ghee, cashews, raisins",vegetarian,sweet,dessert,15,60
-ghevar,"flour, ghee, kewra, milk, clarified butter, sugar, almonds, pistachios, saffron, green cardamom",vegetarian,sweet,dessert,15,30
-gulab jamun,"milk powder, flour, baking powder, ghee, milk, sugar, water, rose water",vegetarian,sweet,dessert,15,40
-amriti,"sugar syrup, flour",vegetarian,sweet,dessert,10,50
-jalebi,"maida, corn flour, baking soda, vinegar, curd, water, turmeric, saffron, cardamom",vegetarian,sweet,dessert,10,50
-kaju katli,"cashews, ghee, cardamom, sugar",vegetarian,sweet,dessert,10,20
-kalakand,"milk, cottage cheese, sugar",vegetarian,sweet,dessert,20,30
-kheer,"milk, rice, sugar, dry fruits",vegetarian,sweet,dessert,10,40
-laddu,"gram flour, ghee, sugar",vegetarian,sweet,dessert,10,40
-lassi,"yoghurt, milk, nuts, sugar",vegetarian,sweet,dessert,5,5
-nankhatai,"flour, besan, ghee, sugar, yoghurt, green cardamom",vegetarian,sweet,dessert,20,30
-pitha,"pumpkin, sugar, lemon, alum powder",vegetarian,sweet,dessert,10,30
-firni,"rice, sugar, nuts",vegetarian,sweet,dessert,30,20
-rabree,"condensed milk, sugar, spices, nuts",vegetarian,sweet,dessert,10,45
-suji halwa,"semolina, ghee, nuts, milk",vegetarian,sweet,dessert,10,25
-singori,"khoya, coconut, molu leaf",vegetarian,sweet,dessert,10,20
-sohan halwa,"corn flour, ghee, dry fruits",vegetarian,sweet,dessert,10,60
-soha papri,"gram flour, ghee, sugar, milk, cardamom",vegetarian,sweet,dessert,45,60
-chena jalebi,"cheese, sugar, ghee",vegetarian,sweet,dessert,10,50
-condensed milk firni,"cheese, sugar, milk",vegetarian,sweet,dessert,20,60
-cheesecake,"sugar, cheese cheese",vegetarian,sweet,dessert,10,45
-cham cham ,"flour, cream, sugar, saffron, lemon juice, coconut flakes",vegetarian,sweet,dessert,40,60
-cottage cheese dumplings,"cheese, condensed milk, sugar, saffron, cardamom",vegetarian,sweet,dessert,25,60
-baray gulab jamun,"cheese, sugar, ghee",vegetarian,sweet,dessert,45,45
-purified milk sweet,"flour, milk powder, sugar syrup",vegetarian,sweet,dessert,20,30
-banana milk pudding ,"banana, milk powder, sugar",vegetarian,sweet,dessert,10,120
-Fine grain,"besan, sugar, ghee",vegetarian,sweet,dessert,15,30
-panna cotta,"milk, jelly,sugar",vegetarian,sweet,dessert,480,30
-cottage cheese gulab jamun,"cheese, sugar, ghee, flour",vegetarian,sweet,dessert,45,45
-pithe,"rice flour, sugar, ghee",vegetarian,sweet,dessert,15,35
-condensed milk jamun,"cheese, milk, suagr",vegetarian,sweet,dessert,15,30
-ras malai,"cheese, milk, pistachios",vegetarian,sweet,dessert,180,60
-rasgulla,"cheese, sugar, cardamom",vegetarian,sweet,dessert,10,90
-patisa,"milk, sugar, saffron, cardamom",vegetarian,sweet,dessert,30,20
-doughnut pastry,"rice flour, jaggery, ghee, oil, elachi, sugar",vegetarian,sweet,dessert,10,50
-riceballs,"rice flour, jaggery, ghee, sugar",vegetarian,sweet,dessert,15,75
-raisin ladoo,"besan, jaggery, cardamom powder, ghee, cashews, raisins, jaggery syrup, sugar",vegetarian,sweet,dessert,5,35
-katkati,"peanuts, jaggery, sugar",vegetarian,sweet,dessert,10,20
-sugar balss,"thickened milk, sugar",vegetarian,sweet,dessert,20,60
-shahi tukra,"bread, milk,strawberry",vegetarian,sweet,dessert,20,30
-sweet shells,"rice flour, sugar, salt, ghee, semolina",vegetarian,sweet,dessert,10,30
-barfi,"flour, sugar",vegetarian,sweet,dessert,10,30
-sweet fried dumplings,"black lentils, rice",vegetarian,sweet,dessert,10,20
-puff pastry ,"besan, semolina, mung bean, jaggery, coconut, milk powder, sugar, ghee",vegetarian,sweet,dessert,5,20
-methi paratha,"methi, turmeric, coconut, chickpeas, jaggery, ghee, cardamom",vegetarian,sweet,dessert,180,60
-rice noodles,"rice flour, milk",vegetarian,sweet,dessert,10,25
-sweet daal balls,"chana daal, jaggery",vegetarian,sweet,dessert,240,60
-sweet rice curd,"rice, jaggery, cashews, ghee",vegetarian,sweet,dessert,5,20
-rice sheets,"rice flour, sugar, ghee",vegetarian,sweet,dessert,10,60
-khubani ka meetha,"apricots, sugar syrup",vegetarian,sweet,dessert,10,20
-sheer korma,"vermicelli, milk, coconut, dried fruits",vegetarian,sweet,dessert,10,20
-small rice cakes,"rice flour, banana, jaggery, coconut",vegetarian,sweet,dessert,10,20
-coconut rice balls,"rice flour, jaggery, coconut",vegetarian,sweet,dessert,40,15
-poppy seed sweet twisters,"rice flour, jaggery, poppy seeds",vegetarian,sweet,dessert,10,50
-cardamom milk pudding,"sugar, milk, nuts",vegetarian,sweet,dessert,10,35
-jackfruit cake,"jackfruit,milk",vegetarian,sweet,dessert,10,50
-doodhpak,"milk, rice, sugar, dry fruits",vegetarian,sweet,dessert,10,60
-zarda,"milk, sugar,saffron",vegetarian,sweet,dessert,10,25
-wheat dumplings,"wheat, coconut, jaggery ",vegetarian,sweet,dessert,10,15
-shakarpari,"sugar, ghee, maida, semolina",vegetarian,sweet,dessert,10,35
-saffron delight,"curd, sugar, saffron, cardamom",vegetarian,sweet,dessert,10,720
-shredded pistachios curd,"maida, sugar, pistachios,yoghurt",vegetarian,sweet,dessert,15,55
-fish curry,"fish, tomatoes, chillies, ginger, garlic",non vegetarian,spicy,main course,10,40
-bengan bharta,"brinjal, onions, chillies, ginger, garlic",non vegetarian,spicy,main course,30,30
-mango kheer,"rice, milk, sugar, cardamom,mango",vegetarian,sweet,dessert,240,45
-spicy rice,"rice, salt, water, chillies",non vegetarian,spicy,main course,5,15
-aloo gobi,"cauliflower, potatoes, garam masala, turmeric, curry leaves",vegetarian,spicy,main course,10,20
-aloo tikki,"rice flour, potatoes, bread crumbs, garam masala, salt",vegetarian,spicy,main course,5,20
-aloo matar,"potatoes, peas, chillies, ginger, garam masala, garlic",vegetarian,spicy,main course,5,40
-aloo methi,"potatoes, fenugreek leaves, chillies, salt, oil",vegetarian,bitter,main course,10,40
-aloo shimla mirch,"potatoes, shimla mirch, garam masala, amchur powder, salt",vegetarian,spicy,main course,10,40
-bhatura,"chickpeas, yoghurt, flour, baking soda",vegetarian,spicy,main course,20,20
-bhindi masala,"ladies finger, garam masala, kasuri methi, tomatoes, chillies",vegetarian,spicy,main course,20,30
-biryani,"chicken, rice, star anise, green chillies, biryani masala",non vegetarian,spicy,main course,30,120
-butter chicken,"chicken, greek yoghurt, cream, garam masala, cashews, butter",non vegetarian,spicy,main course,10,35
-chana masala,"chickpeas, tomatoes, garam masala, ginger, onions, oil",vegetarian,spicy,main course,20,30
-chapati,"flour, oil",vegetarian,other,main course,10,10
-chicken garam masala,"chicken, yoghurt, sesame seeds, garam masala, cashews, saffron",non vegetarian,spicy,main course,10,35
-chicken tikka masala,"naan, tomatoes, chicken, cream, garam masala",non vegetarian,spicy,main course,10,50
-chicken tikka,"chicken, bread, rice flour, garam masala, eggs",non vegetarian,spicy,starter,120,45
-chole bhature,"chole, garam masala, bay leaf, cinnamon stick",vegetarian,spicy,main course,20,30
-daal baati churma,"moong daal, masoor daal, chana daal, flour, almonds",vegetarian,spicy,main course,10,90
-daal puri,"moong daal, garam masala, garlic, green chillies, flour",vegetarian,spicy,main course,30,30
-daal makhani ,"red kidney beans, urad daal, cream, garam masala, chillies",vegetarian,sweet,main course,10,60
-daal tarka,"peas, garam masala, ginger, onions, kasuri methi",vegetarian,spicy,main course,10,30
-dum aloo,"potatoes, garam masala, cashews, kasuri methi, tomatoes",vegetarian,spicy,main course,20,50
-flattened rice ,"beaten rice flakes, potatoes, curry leaves, green chillies, lemon juice",vegetarian,spicy,snack,20,30
-chanay papar,"chana daal, flour, arhar daal, urad daal, garam masala",vegetarian,spicy,snack,10,60
-kachori,"moong daal, rava, garam masala, dough, fennel seeds",vegetarian,spicy,snack,30,60
-karahi,"cottage cheese, bell peppers, gravy, garam masala, cashews",vegetarian,spicy,main course,20,30
-karhi,"besan, garam masala, gram flour, ginger, curry leaves",vegetarian,spicy,main course,10,60
-karela bharta,"bitter gourd, fennel, garam masala, chillies, amchur powder",vegetarian,bitter,main course,20,50
-khichri,"moong daal, green peas, ginger, tomatoes, green chillies",vegetarian,spicy,main course,40,20
-kofta,"paneer, potatoes, cream, corn flour, garam masala",vegetarian,spicy,main course,20,40
-kulfi falooda,"rose syrup, falooda sev, mixed nuts, saffron, sugar",vegetarian,sweet,dessert,45,25
-lauki kofte,"bottle gourd, garam masala, gram flour, ginger, chillies",vegetarian,spicy,main course,20,40
-lauki sabzi,"bottle gourd, oil, garam masala, ginger, green chillies",vegetarian,spicy,main course,10,20
-stuffed wheat balls,"flour, gram flour, tomatoes, nigella seeds, chillies",vegetarian,spicy,main course,45,60
-makki di roti sarson da saag,"mustard, makki flour, mustard green, garam masala, ginger",vegetarian,spicy,main course,25,30
-spicy roti,"flour, gram flour, green chillies",vegetarian,spicy,main course,30,30
-mushrooms do pyaza,"mushrooms, malai, garam masala, ginger, capsicum",vegetarian,spicy,main course,10,30
-mushrooms matar,"coconut milk, frozen green peas, mushrooms, garam masala, tomatoes",vegetarian,spicy,main course,10,30
-naan,"flour, honey, butter, garlic",vegetarian,other,main course,60,30
-green beans korma,"green beans, potatoes, khus khus, low fat, garam masala",vegetarian,spicy,main course,25,40
-palak paneer,"cottage cheese, palak, cream, garam masala, butter",vegetarian,spicy,main course,20,40
-paneer butter masala,"paneer, cream, garam masala, cashews, butter",vegetarian,spicy,main course,20,40
-paneer tikka masala,"paneer, greek yoghurt, tandoori masala, cream, bell peppers",vegetarian,spicy,main course,20,40
-pani puri,"kala chana, potatoes, boondi, sev, lemon",vegetarian,spicy,snack,15,2
-panjeeri,"flour, musk melon seeds, poppy seeds, edible gum, semolina",vegetarian,sweet,dessert,10,25
-papar,"urad daal, sev, lemon juice, tomatoes",vegetarian,spicy,snack,5,5
-paratha,"flour, butter, potatoes, coriander",vegetarian,spicy,main course,15,45
-arivi sabzi,"arvi, sesame seeds, gur, imli",vegetarian,spicy,main course,10,30
-methi chana,"fennel, tea bags, tomatoes, methi, cinnamon",vegetarian,spicy,main course,500,120
-rajma chawal,"red kidney beans, garam masala, ginger, tomatoes, oil",vegetarian,spicy,main course,15,90
-lobia,"garam masala, tomatoes, kasuri methi, cinnamon, oil",vegetarian,other,main course,10,30
-samosa,"potatoes, green peas, garam masala, ginger, dough",vegetarian,spicy,snack,30,30
-sattu ki roti,"sattu, flour, dough, filling, oil",vegetarian,spicy,main course,10,20
-shahi paneer,"cottage cheese, malai, garam masala, ginger, tomatoes",vegetarian,spicy,main course,20,40
-shahi tukra,"rose water, milk, bread, saffron, almonds",vegetarian,sweet,dessert,10,30
-vegetable jalfrezi,"corn, french beans, garam masala, ginger, carrots",vegetarian,spicy,main course,10,30
-tandoori chicken,"greek yoghurt, garam masala, kasuri methi, marinade, oil",non vegetarian,spicy,main course,240,30
-tandoori fish tikka,"gram flour, biryani masala, yoghurt, fish filletss, green bell peppers",non vegetarian,spicy,starter,240,30
-dosa,"flour, arhar daal, ginger, kala zeera, green chillies",vegetarian,spicy,snack,150,25
-boiled banana curry,"banana, long beans, urad daal",vegetarian,spicy,main course,30,45
-hot lentil rice ,"pigeon peas, chana daal, urad daal, green peas, french beans",vegetarian,spicy,main course,30,45
-curry pulao,"chana daal, urad daal, coconut, sesame seeds, curry leaves",vegetarian,spicy,main course,10,20
-cheese dosa,"chana daal, urad daal, urad daal, rice, rock salt, cheese",vegetarian,spicy,snack,360,90
-rice noodles,"rice flour, water, coconut",vegetarian,spicy,snack,120,30
-savoury rice cake,"urad daal, urad daal, idli rice, rock salt",vegetarian,spicy,snack,360,90
-rice daal,"rice, carrots, mustard, red chillies, black salt",vegetarian,other,snack,10,45
-vegetable gravy,"oil, drumsticks, tamarind paste, sambar powder, tomatoes",vegetarian,spicy,main course,30,40
-spinach moong daal,"moong daal, chana daal, spinach, urad daal, oil",vegetarian,spicy,main course,20,30
-spinach stew,"urad daal, curry leaves, sugar, mustard seeds, spinach",vegetarian,spicy,main course,25,30
-spinach daal,"tomatoes, mustard seeds, fenugreek seeds,spinach,daal",vegetarian,spicy,main course,10,20
-spinach salad,"amaranth leaves, urad daal, mustard seeds, grated coconut, red chillies,spinach",vegetarian,spicy,main course,20,30
-beef fry,"beef, coconut, garam masala, curry leaves, green chillies, chillies",non vegetarian,spicy,main course,10,60
-vegetable stew,"chana daal, urad daal, potatoes, beans, peas",vegetarian,spicy,main course,10,15
-cabbage stew,"moong daal, chana daal, cabbage, tamarind, curry leaves",vegetarian,spicy,main course,10,20
-vegetable salad,"moong daal, cucumber, curry leaves, green chillies, lemon juice",vegetarian,spicy,main course,10,20
-coriander rice,"chana daal, urad daal, gooseberry, rice, curry leaves,coriander",vegetarian,spicy,main course,10,20
-steamed coconut dumplings,"oil, rice, jaggery, grated coconut",vegetarian,spicy,main course,10,90
-tamarind curry,"pearl onions, urad daal, drumsticks, tomatoes, curry leaves,tamarind",vegetarian,spicy,main course,5,30
-masala dosa,"chana daal, urad daal, potatoes, idli rice, thick poha",vegetarian,spicy,snack,360,90
-coconut pickle ,"oil, cucumber, curd, curry leaves, mustard seeds",vegetarian,other,main course,10,25
-fried rice lentil dumplings,"yoghurt, ginger, curry leaves, baking soda, green chillies",vegetarian,other,main course,10,20
-lentil crackers,"lentils, black pepper, oil",vegetarian,spicy,snack,5,5
-lemon kheer,"rice,  khoya, milk,lemon ",vegetarian,spicy,main course,20,40
-choco pie,"rice, cashews, milk, raisins, sugar,flour, cake mix, chocolate",vegetarian,sweet,dessert,15,30
-one pot rice,"arhar daal, sambar powder, tomatoes, curry leaves, fennel seeds,rice",vegetarian,other,main course,10,20
-moong beans crepe,"green moong beans, rice flour",vegetarian,spicy,snack,120,20
-stir fry coconut rice,"chana daal, urad daal, beans, coconut, mustard,rice",vegetarian,spicy,main course,30,40
-tamarind rice,"urad daal, lemon, tamarind, rice, curry leaves",vegetarian,other,main course,10,20
-tomato soup,"tomatoes, curry leaves, garlic, mustard seeds, water",vegetarian,spicy,main course,10,35
-portioned rice rolls,"rice flour, sugar, coconut",vegetarian,other,main course,495,40
-cauliflower porridge,"pigeon peas, eggsplant, drumsticks, sambar powder, tamarind, cauliflower",vegetarian,spicy,main course,20,45
-cheese papar,"thin rice flakes, black sesame seeds, curry leaves,cheese",vegetarian,other,main course,120,60
-siwai,"sevai, parboiled rice, steamer",vegetarian,other,main course,120,30
-curd rice,"urad daal, curd, oil, ginger, curry leaves, mustard seeds,rice",vegetarian,other,main course,10,20
-red bean soup,"coconut, red beans, masala, oil, tamarind",vegetarian,other,main course,15,20
-savoury pancake,"chana daal, urad daal, thick poha, tomatoes, butter",vegetarian,spicy,snack,10,20
-potato cutlets,"urad daal, ginger, curry leaves, green chillies, black pepper,potatoes",vegetarian,spicy,snack,15,20
-chicken stir fry,"meat curry powder, chicken, ginger, tomatoes, cinnamon",non vegetarian,spicy,main course,10,35
-upma,"chana daal, urad daal, ginger, curry leaves, sugar",vegetarian,spicy,snack,10,20
-sweet and sour daal,"kala masala, arhar daal, curry leaves, mustard seeds, water",vegetarian,spicy,main course,10,45
-spicy gram flour,"gram flour, mustard, garlic, turmeric, red chillies",vegetarian,spicy,main course,10,25
-prawn salad,"prawns, oil, coconut, ginger",non vegetarian,spicy,main course,30,45
-suji dumplings,"urad daal, potatoes, flour, suji",vegetarian,spicy,main course,20,40
-bajray rooti,"flour, millet flour",vegetarian,spicy,main course,10,10
-coconut barfi,"condensed milk, mawa, desiccated coconut, almonds, cashews",vegetarian,sweet,dessert,20,30
-steamed flatbread,"jowar flour, sesame seeds",vegetarian,other,main course,20,25
-fried duck soup,"bombay duck, malvani masala, rice flour, green chillies",non vegetarian,spicy,main course,30,50
-spiral sweet rolls,"rice flour, sesame, flour, turmeric, red chillies",vegetarian,spicy,snack,10,40
-fried potato crisps,"potatoes,salt, pepper",vegetarian,spicy,snack,20,30
-cholay papar,"urad daal, gram flour, dried mango, baking soda, black salt",vegetarian,spicy,snack,5,15
-khopra barfi,"condensed milk, nestle cream, coconut ice, red food coloring, desiccated coconut",vegetarian,other,main course,20,30
-daal cake,"flour, daal, kokum, gur, gram flour",vegetarian,spicy,main course,20,30
-potato stuffed bun,"pav, potatoes, peanuts, pomegranate, star anise",vegetarian,spicy,snack,30,10
-dahi baray,"urad daal, bhuna chana, garam masala, dates, tamarind, yoghurt",vegetarian,other,snack,30,30
-lentil daal,"lentils, oil, curry leaves, mustard seeds, red chillies",vegetarian,other,main course,5,20
-savoury coconut cake,"coconut, gram flour, mustard, sesame",vegetarian,spicy,snack,10,20
-dudhi halwa,"bottle gourd, raisins, sugar, clarified butter",vegetarian,spicy,main course,15,30
-butter chicken stew,"yoghurt, besan, sauce, garam masala, gram flour,chicken, butter",vegetarian,spicy,main course,10,20
-gur papri,"flour, jaggery, clarified butter, almonds",vegetarian,sweet,dessert,10,20
-sweet samosa,"dry fruits, semolina, flour",vegetarian,spicy,snack,20,30
-vegetable cake,"bottle gourd, chana daal, cabbage, urad daal, toor daal",vegetarian,spicy,snack,20,30
-halwa roll,"rava, chia seed, lemon, edible gum, milk",vegetarian,sweet,dessert,60,120
-zeera aloo,"green chillies, lemon juice, chillies, potatoes",vegetarian,spicy,main course,10,30
-cashews delight,"flour, cashews, oil",vegetarian,other,main course,10,40
-aam ras,"mango, sugar",vegetarian,sour,main course,10,10
-spicy papar,"flour, low fat, gram flour",vegetarian,spicy,snack,20,40
-gram flour rolls,"green chillies, sesame seeds, gram flour, curry leaves",vegetarian,spicy,snack,20,45
-peppercorn curry,"rice flour, urad daal, flour, gram flour, turmeric, peppercorn",vegetarian,spicy,snack,10,25
-ghee stuffed rolls,"cinnamon, jaggery, clarified butter, dry roasted",vegetarian,spicy,main course,10,40
-veggie yoghurt salad,"cucumber, carrots, tomatoes, cilantro",vegetarian,spicy,main course,10,10
-methi laddoo,"gram flour, lemon juice, turmeric, fenugreek leaves",vegetarian,bitter,main course,15,30
-almond confectionary sweet,"rose water, pistachios, almonds, gram flour, saffron",vegetarian,sweet,dessert,5,45
-fenugreek rolls,"bottle gourd, flour, rava, sesame seeds, gram flour,fenuugreek",vegetarian,bitter,snack,15,30
-patra,"arbi ke patte, sesame seeds, gur, gram flour, imli",vegetarian,spicy,snack,10,40
-pao bhaji,"pao bhaji masala, gobi, potatoes, green peas, dinner rolls",vegetarian,spicy,main course,20,40
-puri bhaji,"potatoes, urad daal, mustard, ginger, curry leaves",vegetarian,spicy,main course,10,30
-sabudana khichri,"peanuts, sabudana, lemon, oil, curry leaves, green chillies",vegetarian,spicy,snack,70,30
-chickpeas seo,"pomegranate, seo, chickpeas",vegetarian,spicy,main course,20,30
-tomato seo,"seo, ginger, tomatoes",vegetarian,spicy,main course,20,30
-namakpara,"flour, baking soda, flour, black pepper, sunflower oil",vegetarian,spicy,snack,10,35
-gur kheer,"flour, gur, clarified butter",vegetarian,sweet,dessert,10,20
-lemon dosa,"rice flakes, yoghurt, rice, jaggery, grated coconut,lemon",vegetarian,spicy,snack,60,10
-multigrain bread,"flour, rice flour, millet flour, sesame seeds",vegetarian,spicy,main course,25,30
-mixed vegetable stew,"potatoes, surti papdi, potatoes, valor papdi, green peas",vegetarian,spicy,main course,25,60
-ved gravy,"gobi, potatoes, beans, khus khus, coconut",vegetarian,spicy,main course,20,30
-vindaaloo,"chicken, oil, vinegar, ginger, cinnamon",non vegetarian,spicy,main course,10,40
-garlic kachori,"green garlic chutney, green peas, ginger, lemon juice, flour",vegetarian,spicy,snack,30,6
-chana daal,"moong beans, jaggery, red chillies, oil, salt, chickpeas, daal",vegetarian,spicy,snack,10,40
-sesame seed papar,"rice flour, sesame seeds, baking soda, oil",vegetarian,spicy,snack,5,10
-paratha aloo,"potatoes, flour",vegetarian,spicy,snack,15,30
-paratha daal," flour, black pepper,daal",vegetarian,other,snack,20,20
-paratha methi,"methi, gram flour",vegetarian,spicy,snack,10,20
-paratha butter,"gram flour, butter",vegetarian,spicy,main course,35,40
-churma ladoo,"flour, khus khus, sesame seeds, dry coconut, gur",vegetarian,sweet,dessert,12,40
-mango pie,"rice, mango, curd, cake mix",vegetarian,sweet,dessert,40,60
-geela pitha,"rice, rice flour, jaggery, orange",vegetarian,sweet,dessert,10,30
-nihari,"chicken,spices, corn flour",non vegetarian,spicy,main course,10,20
-kabuli pulao,"rice, beef, saffron, spices",non vegetarian,spicy,main course,120,130
-haleem,"chicken , chickpeas, onions",non vegetarian,spicy,main course,20,30
-mango lassi,"mango, milk, curd",non vegetarian,sweet,snack,5,20
-strawberry lassi,"strawberry, milk, sugar, curd",non vegetarian,sweet,main course,15,25
-malai boti ,"yoghurt, chicken, spices",non vegetarian,spicy,main course,70,90
-tikka boti,"chicken, spices, garlic, yoghurt",non vegetarian,spicy,main course,10,20
-black rice,"forbidden black rice, chicken, oil, almonds, garlic",non vegetarian,other,main course,20,49
-beef biryani,"biryani masala, spices, beef, ",vegetarian,spicy,main course,60,80
-brown rice,"brown rice, soy sauce, oil",vegetarian,other,main course,15,25
-malai curry,"coconut milk, lobster, green chillies, ginger, onions",non vegetarian,spicy,main course,10,40
-buttered delights,"baking soda, clarified butter, oil, flour",vegetarian,sweet,dessert,20,60
-siwayaian,"vermicelli, milk, cardamom, pistachios",vegetarian,sweet,dessert,35,60
-lamb curry,"lamb, garam masala, curd, turmeric, bay leaf",non vegetarian,spicy,main course,20,40
-sajji,"chicken, garlic, chillies, potatoes",non vegetarian,other,main course,15,30
-fish fillet,"fish, besan, lemon, mint, ginger",non vegetarian,spicy,main course,45,60
-seekh kabab,"lamb, onions, garlic, coriander",vegetarian,spicy,main course,60,60
-chapli kabab,"beef, spices, yoghurt, coriander",non vegetarian,spicy,main course,20,40
-potato stew,"potatoes, tomatoes, oil, bay leaf, cinnamon stick",non vegetarian,spicy,main course,30,30
-duck stew,"rice flour,duck, gram flour, oil",non vegetarian,spicy,main course,30,55
-masor daal,"fish roe, pumpkin, oil, turmeric, tomatoes",non vegetarian,spicy,main course,15,45
-daal fry,"chana daal, coconut, ginger, cinnamon, raisins",vegetarian,sweet,main course,10,30
-chicken reshmi handi,"curd, rice, curry leaves, dry chillies, chicken, garlic, ",vegetarian,other,main course,35,60
-pani pitha,"tea leaves, sesame seeds, dry coconut, rice",vegetarian,other,main course,10,20
-saffron pulao,"rice, rose water, sugar, clarified butter, cardamom pods, saffron",vegetarian,sweet,dessert,30,40
-prawn malai curry,"coconut milk, prawns, garlic, turmeric, sugar",non vegetarian,spicy,main course,15,50
-red rice,"red pepper, onions, butter, watercress, oil",vegetarian,other,main course,15,30
-curry,"green beans, bitter gourd, ridge gourd, banana, brinjal",vegetarian,spicy,main course,10,20
-til pitha,"black sesame seeds, gur",vegetarian,sweet,dessert,5,30
-coconut cream pudding,"coconut milk, eggs, clarified butter, flour",vegetarian,sweet,dessert,20,60
-dates delight,"cottage cheese, dry dates, dried rose petals, pistachios, almonds",vegetarian,sweet,dessert,30,30
-orange mil delight,"orange,milk powder, dry fruits, arrowroot powder, flour",vegetarian,sweet,dessert,20,45
-pulao,"rice, fennel seeds, chicken, grated coconut, black pepper, ginger, green chillies, chicken",vegetarian,sweet,main course,30,120
+name,ingredients,diet,flavor_profile,course,prep_time,cook_time,images
+glazed doughnuts,"oil, sugar, milk, vanilla, eggs, yeast, butter",vegetarian,sweet,dessert,45,25,
+bundia,"gram flour, ghee, sugar",vegetarian,sweet,dessert,80,30,
+gajar ka halwa,"carrots, milk, sugar, ghee, cashews, raisins",vegetarian,sweet,dessert,15,60,
+ghevar,"flour, ghee, kewra, milk, clarified butter, sugar, almonds, pistachios, saffron, green cardamom",vegetarian,sweet,dessert,15,30,
+gulab jamun,"milk powder, flour, baking powder, ghee, milk, sugar, water, rose water",vegetarian,sweet,dessert,15,40,
+amriti,"sugar syrup, flour",vegetarian,sweet,dessert,10,50,
+jalebi,"maida, corn flour, baking soda, vinegar, curd, water, turmeric, saffron, cardamom",vegetarian,sweet,dessert,10,50,
+kaju katli,"cashews, ghee, cardamom, sugar",vegetarian,sweet,dessert,10,20,
+kalakand,"milk, cottage cheese, sugar",vegetarian,sweet,dessert,20,30,
+kheer,"milk, rice, sugar, dry fruits",vegetarian,sweet,dessert,10,40,
+laddu,"gram flour, ghee, sugar",vegetarian,sweet,dessert,10,40,
+lassi,"yoghurt, milk, nuts, sugar",vegetarian,sweet,dessert,5,5,
+nankhatai,"flour, besan, ghee, sugar, yoghurt, green cardamom",vegetarian,sweet,dessert,20,30,
+pitha,"pumpkin, sugar, lemon, alum powder",vegetarian,sweet,dessert,10,30,
+firni,"rice, sugar, nuts",vegetarian,sweet,dessert,30,20,
+rabree,"condensed milk, sugar, spices, nuts",vegetarian,sweet,dessert,10,45,
+suji halwa,"semolina, ghee, nuts, milk",vegetarian,sweet,dessert,10,25,
+singori,"khoya, coconut, molu leaf",vegetarian,sweet,dessert,10,20,
+sohan halwa,"corn flour, ghee, dry fruits",vegetarian,sweet,dessert,10,60,
+soha papri,"gram flour, ghee, sugar, milk, cardamom",vegetarian,sweet,dessert,45,60,
+chena jalebi,"cheese, sugar, ghee",vegetarian,sweet,dessert,10,50,
+condensed milk firni,"cheese, sugar, milk",vegetarian,sweet,dessert,20,60,
+cheesecake,"sugar, cheese cheese",vegetarian,sweet,dessert,10,45,
+cham cham ,"flour, cream, sugar, saffron, lemon juice, coconut flakes",vegetarian,sweet,dessert,40,60,
+cottage cheese dumplings,"cheese, condensed milk, sugar, saffron, cardamom",vegetarian,sweet,dessert,25,60,
+baray gulab jamun,"cheese, sugar, ghee",vegetarian,sweet,dessert,45,45,
+purified milk sweet,"flour, milk powder, sugar syrup",vegetarian,sweet,dessert,20,30,
+banana milk pudding ,"banana, milk powder, sugar",vegetarian,sweet,dessert,10,120,
+Fine grain,"besan, sugar, ghee",vegetarian,sweet,dessert,15,30,
+panna cotta,"milk, jelly,sugar",vegetarian,sweet,dessert,480,30,
+cottage cheese gulab jamun,"cheese, sugar, ghee, flour",vegetarian,sweet,dessert,45,45,
+pithe,"rice flour, sugar, ghee",vegetarian,sweet,dessert,15,35,
+condensed milk jamun,"cheese, milk, suagr",vegetarian,sweet,dessert,15,30,
+ras malai,"cheese, milk, pistachios",vegetarian,sweet,dessert,180,60,
+rasgulla,"cheese, sugar, cardamom",vegetarian,sweet,dessert,10,90,
+patisa,"milk, sugar, saffron, cardamom",vegetarian,sweet,dessert,30,20,
+doughnut pastry,"rice flour, jaggery, ghee, oil, elachi, sugar",vegetarian,sweet,dessert,10,50,
+riceballs,"rice flour, jaggery, ghee, sugar",vegetarian,sweet,dessert,15,75,
+raisin ladoo,"besan, jaggery, cardamom powder, ghee, cashews, raisins, jaggery syrup, sugar",vegetarian,sweet,dessert,5,35,
+katkati,"peanuts, jaggery, sugar",vegetarian,sweet,dessert,10,20,
+sugar balss,"thickened milk, sugar",vegetarian,sweet,dessert,20,60,
+shahi tukra,"bread, milk,strawberry",vegetarian,sweet,dessert,20,30,
+sweet shells,"rice flour, sugar, salt, ghee, semolina",vegetarian,sweet,dessert,10,30,
+barfi,"flour, sugar",vegetarian,sweet,dessert,10,30,
+sweet fried dumplings,"black lentils, rice",vegetarian,sweet,dessert,10,20,
+puff pastry ,"besan, semolina, mung bean, jaggery, coconut, milk powder, sugar, ghee",vegetarian,sweet,dessert,5,20,
+methi paratha,"methi, turmeric, coconut, chickpeas, jaggery, ghee, cardamom",vegetarian,sweet,dessert,180,60,
+rice noodles,"rice flour, milk",vegetarian,sweet,dessert,10,25,
+sweet daal balls,"chana daal, jaggery",vegetarian,sweet,dessert,240,60,https://media.istockphoto.com/id/1213871678/photo/mung-dal-bhajiya.jpg?b=1&s=170667a&w=0&k=20&c=anyrrfaoZeGCm8CPO9IjTJ_JjM4Yf8IQWa3aQUQ2ZAU=
+sweet rice curd,"rice, jaggery, cashews, ghee",vegetarian,sweet,dessert,5,20,https://media.istockphoto.com/id/1066283008/photo/indian-thaali-meal.jpg?b=1&s=170667a&w=0&k=20&c=Uiw6kSNbLZGa5n0YDvXlF4_F_22XSswFeFGGRk9i2do=
+rice sheets,"rice flour, sugar, ghee",vegetarian,sweet,dessert,10,60,https://media.istockphoto.com/id/485112656/photo/chinese-steamed-rice-rolls.jpg?b=1&s=170667a&w=0&k=20&c=tIb0PiO_owfdV7bNEbkattUKHfwbVQy1N4zqq6VCHFE=
+khubani ka meetha,"apricots, sugar syrup",vegetarian,sweet,dessert,10,20,https://media.istockphoto.com/id/172900295/photo/close-up-of-clear-bowl-with-mango-mousse-dessert-and-garnish.jpg?b=1&s=170667a&w=0&k=20&c=aj1q4nuZTt3AUap1TPAOGcr0hpL5BHhV1zIJAab14jg=
+sheer korma,"vermicelli, milk, coconut, dried fruits",vegetarian,sweet,dessert,10,20,https://media.istockphoto.com/id/469867501/photo/sheer-khorma-sewiya-a-sweet-dish.jpg?b=1&s=170667a&w=0&k=20&c=DGBG5VjRVB81l18Ts2fD6KGKbUuxl7BK2FFmMYk3HB8=
+small rice cakes,"rice flour, banana, jaggery, coconut",vegetarian,sweet,dessert,10,20,https://media.istockphoto.com/id/1311306085/photo/brown-round-corn-balls.jpg?b=1&s=170667a&w=0&k=20&c=K8JxTknX6B_i3texSra9S4zWXhnukjwJvb-CVZltdNA=
+coconut rice balls,"rice flour, jaggery, coconut",vegetarian,sweet,dessert,40,15,https://media.istockphoto.com/id/1388148140/photo/es-loder-the-icy-coconut-milk-dessert-with-custard-sago-pearls-and-rice-balls-from-bogor-west.jpg?b=1&s=170667a&w=0&k=20&c=kJ9sB61CnL1db7DnrpzP1ZTwgLjRIa31CdRDIo6yPRQ=
+poppy seed sweet twisters,"rice flour, jaggery, poppy seeds",vegetarian,sweet,dessert,10,50,https://media.istockphoto.com/id/1360833013/photo/spoon-takes-hot-chocolate-swirl-whirlwind-tornado-chocolate-splash-temptation-of-melted.jpg?b=1&s=170667a&w=0&k=20&c=ExxOUzIH3vU1yjKOZUh4X2StBU8z5mJl7l0qwTmq-l4=
+cardamom milk pudding,"sugar, milk, nuts",vegetarian,sweet,dessert,10,35,https://media.istockphoto.com/id/534974363/photo/flan.jpg?b=1&s=170667a&w=0&k=20&c=RHOuE3UqHsxbwngqyeiDgJ5DoEMS3lzmp9bU6pKu7iE=
+jackfruit cake,"jackfruit,milk",vegetarian,sweet,dessert,10,50,https://media.istockphoto.com/id/1132428087/photo/jackfruit-pie.jpg?b=1&s=170667a&w=0&k=20&c=71-KLC6HHs9LYV9VNQHKGQ6ZdRl0UzuvLECp7-TF1AA=
+doodhpak,"milk, rice, sugar, dry fruits",vegetarian,sweet,dessert,10,60,https://media.istockphoto.com/id/1317649946/photo/close-up-of-creamy-sabudana-kheer-garnished-with-dry-fruits-indian-delicious-dessert-served.jpg?b=1&s=170667a&w=0&k=20&c=405E_3-xse6QRl6V5DXCJKh5A4QLL3GpTevvek5ePqk=
+zarda,"milk, sugar,saffron",vegetarian,sweet,dessert,10,25,https://media.istockphoto.com/id/1453499683/photo/zarda-or-jorda-rice-with-almond-khya-and-nuts-served-in-dish-isolated-on-table-top-view.jpg?b=1&s=170667a&w=0&k=20&c=pul_b_b0slExjxMvdiD_eQxRCCh36JBcNxFQzb9OAgU=
+wheat dumplings,"wheat, coconut, jaggery ",vegetarian,sweet,dessert,10,15,https://media.istockphoto.com/id/1412634285/photo/closeup-of-female-pastry-chef-rolling-dough-pieces-for-baking-closeup-on-hands-of-bakery-chef.jpg?b=1&s=170667a&w=0&k=20&c=F0NiAlQKDI5i3Yp99JAiV3j86mPqJZyH8peCQZf_KLw=
+shakarpari,"sugar, ghee, maida, semolina",vegetarian,sweet,dessert,10,35,https://media.istockphoto.com/id/1436421341/photo/shakarpara-shankarpali-diwali-sweets.jpg?b=1&s=170667a&w=0&k=20&c=FNoJqJqjSjcOzY7n4OYzAY7lVa-jQl48uCvG1XnHlS0=
+saffron delight,"curd, sugar, saffron, cardamom",vegetarian,sweet,dessert,10,720,https://media.istockphoto.com/id/1408468776/photo/turkish-delight-with-saffron-and-almonds-at-carmel-market.jpg?b=1&s=170667a&w=0&k=20&c=CPSTL1ZZLHOFhw1ulUrIMAsey2uf7TQF7oqJuPhRuTw=
+shredded pistachios curd,"maida, sugar, pistachios,yoghurt",vegetarian,sweet,dessert,15,55,https://media.istockphoto.com/id/1366924720/photo/burrata-salad-with-mandarin-oranges-and-pomegranate.jpg?b=1&s=170667a&w=0&k=20&c=Rrv1ZqO7SoiYc-F43lPi58WPcYIYe8KEyMq-sBaltEI=
+fish curry,"fish, tomatoes, chillies, ginger, garlic",non vegetarian,spicy,main course,10,40,https://media.istockphoto.com/id/533699468/photo/tom-yum-kroong-soup.jpg?b=1&s=170667a&w=0&k=20&c=yygCxfjn8wfxtpkK8s8qImHLpFANCx9wh7flGOQKeS8=
+bengan bharta,"brinjal, onions, chillies, ginger, garlic",non vegetarian,spicy,main course,30,30,https://media.istockphoto.com/id/506497605/photo/alu-bengan.jpg?b=1&s=170667a&w=0&k=20&c=ABJEeEc9epaliATAkULIAuhm5Kt1CTjJsn-wPZuHSFw=
+mango kheer,"rice, milk, sugar, cardamom,mango",vegetarian,sweet,dessert,240,45,https://media.istockphoto.com/id/1318863029/photo/mango-flavored-phirni-served-in-glass-bowls.jpg?b=1&s=170667a&w=0&k=20&c=U3GO3s6nNHBBk3Tfq5lYuCHpAtuDNKqCTEFs0oIswlg=
+spicy rice,"rice, salt, water, chillies",non vegetarian,spicy,main course,5,15,https://media.istockphoto.com/id/476541008/photo/saffron-rice-with-vegetables-and-cilantro.jpg?b=1&s=170667a&w=0&k=20&c=Bgd5rv10VCBDleUCAIzJKz9LVE3-RyvJhYSf7zxtR6M=
+aloo gobi,"cauliflower, potatoes, garam masala, turmeric, curry leaves",vegetarian,spicy,main course,10,20,https://media.istockphoto.com/id/1323926123/photo/indian-vegan-aloo-gobi-dish-with-potatoes-and-cauliflower.jpg?b=1&s=170667a&w=0&k=20&c=ETY5JnMnFeFxd7xhAsU5MAl92knWXo32KqTBpYyDEhw=
+aloo tikki,"rice flour, potatoes, bread crumbs, garam masala, salt",vegetarian,spicy,main course,5,20,https://media.istockphoto.com/id/1204866803/photo/indian-potato-patties-aloo-tikki-served-with-yogurt-close-up-in-a-dish-horizontal-top-view.jpg?b=1&s=170667a&w=0&k=20&c=ievCKFyIIaimUMMf12WXcrqeBIHKx4b7VTRU9pPUYGI=
+aloo matar,"potatoes, peas, chillies, ginger, garam masala, garlic",vegetarian,spicy,main course,5,40,https://media.istockphoto.com/id/498120502/photo/aloo-mutter-curry-indian-food.jpg?b=1&s=170667a&w=0&k=20&c=yb1dI-ucNzFJ7HoMa_kCj6bD7f4tcvjttL8Z5eysxTc=
+aloo methi,"potatoes, fenugreek leaves, chillies, salt, oil",vegetarian,bitter,main course,10,40,https://media.istockphoto.com/id/1358749905/photo/indian-cuisine-aloo-methi-sabji-or-fenugreek-potato-sabji-served-in-a-karahi.jpg?b=1&s=170667a&w=0&k=20&c=_ra3UsnItTyZOiSzbL3ZFPlsXtSYSUE7UWaccdkMEx4=
+aloo shimla mirch,"potatoes, shimla mirch, garam masala, amchur powder, salt",vegetarian,spicy,main course,10,40,https://media.istockphoto.com/id/1427586748/photo/shimla-mirch-aloo.jpg?b=1&s=170667a&w=0&k=20&c=Qu_IJHa4y6QrCiu2vLshyA_9KTIuXKjaagTPMj8Rh5o=
+bhatura,"chickpeas, yoghurt, flour, baking soda",vegetarian,spicy,main course,20,20,https://media.istockphoto.com/id/1446439743/photo/chole-bhature-or-chick-pea-curry.jpg?b=1&s=170667a&w=0&k=20&c=N6NqT8XkHhw1u7brUmRb2tmRSJt6mcMP-oXsxKRmvWI=
+bhindi masala,"ladies finger, garam masala, kasuri methi, tomatoes, chillies",vegetarian,spicy,main course,20,30,https://media.istockphoto.com/id/1444449131/photo/bhindi-masala-stir-fried-okra-with-indian-spices-ladyfinger-fry-copy-space-bhendi-ki-sabzi.jpg?b=1&s=170667a&w=0&k=20&c=4G8O9scALqTO2XcUg4FYKnChKC-16h1yhBYD69Fy6hE=
+biryani,"chicken, rice, star anise, green chillies, biryani masala",non vegetarian,spicy,main course,30,120,https://media.istockphoto.com/id/509568543/photo/indian-food.jpg?b=1&s=170667a&w=0&k=20&c=6pyfySYOr4X2T1_zZ-XRa9wY15_1rVlfIDimXMPVVUE=
+butter chicken,"chicken, greek yoghurt, cream, garam masala, cashews, butter",non vegetarian,spicy,main course,10,35,https://media.istockphoto.com/id/1373284422/photo/indian-creamy-butter-chicken-curry-with-paratha-bread-served-in-copper-bowl.jpg?b=1&s=170667a&w=0&k=20&c=-a2xzpgIy2fTbVYpcGHJK9hvvRBHEJ4gbzaoicKJxrY=
+chana masala,"chickpeas, tomatoes, garam masala, ginger, onions, oil",vegetarian,spicy,main course,20,30,https://media.istockphoto.com/id/1419947738/photo/chonar-daal-or-dal-chana-chicken-gosht-with-onion-pepper-and-salad-served-in-a-dish-isolated.jpg?b=1&s=170667a&w=0&k=20&c=qZ7rhwu3p46CA9M4Mj4nZX7ucSoNjO8CZ_WZB6J-n18=
+chapati,"flour, oil",vegetarian,other,main course,10,10,https://media.istockphoto.com/id/526846282/photo/traditional-indian-roti-ready-to-serve.jpg?b=1&s=170667a&w=0&k=20&c=dLaIl2U4zmOoC2T6mPdsGI4rvW4JFPtZdOf8DcMxo3o=
+chicken garam masala,"chicken, yoghurt, sesame seeds, garam masala, cashews, saffron",non vegetarian,spicy,main course,10,35,https://images.unsplash.com/photo-1565557623262-b51c2513a641?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGdhcmFtJTIwbWFzYWxhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60
+chicken tikka masala,"naan, tomatoes, chicken, cream, garam masala",non vegetarian,spicy,main course,10,50,https://images.unsplash.com/photo-1610057099431-d73a1c9d2f2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Y2hpY2tlbiUyMHRpa2thJTIwbWFzYWxhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60
+chicken tikka,"chicken, bread, rice flour, garam masala, eggs",non vegetarian,spicy,starter,120,45,https://media.istockphoto.com/id/1311491582/photo/chilli-paneer-indian-snack-food.jpg?b=1&s=170667a&w=0&k=20&c=3H6Ho6Dwgr7lHSaew3qmxn7pfhx2UY8rAZ2uyzI7ui4=
+chole bhature,"chole, garam masala, bay leaf, cinnamon stick",vegetarian,spicy,main course,20,30,https://media.istockphoto.com/id/1451834232/photo/chole-chawal-in-desposel.jpg?b=1&s=170667a&w=0&k=20&c=T9xRfVmi3heop9ut0YAaVU_1PFVTyJ7W-qegF01gSBQ=
+daal baati churma,"moong daal, masoor daal, chana daal, flour, almonds",vegetarian,spicy,main course,10,90,https://media.istockphoto.com/id/1351914938/photo/dal-bati-a-traditional-indian-food-typically-prepared-in-rajasthan-so-called-rajasthani-food.jpg?b=1&s=170667a&w=0&k=20&c=Y13sOJAYM8zTx7tfSc_ZJ3-0k__zgv6OkPgxvYY7rOg=
+daal puri,"moong daal, garam masala, garlic, green chillies, flour",vegetarian,spicy,main course,30,30,https://media.istockphoto.com/id/464757474/photo/bhelpuri-chat-item-india.jpg?b=1&s=170667a&w=0&k=20&c=ycakim7f4xE8fctzRgJlySLpyYP8cJWh4nDuRmLPMcI=
+daal makhani ,"red kidney beans, urad daal, cream, garam masala, chillies",vegetarian,sweet,main course,10,60,https://media.istockphoto.com/id/1338259782/photo/image-of-metal-kadhai-style-serving-bowls-of-homemade-dal-makhani-curry-recipe-and-white-rice.jpg?b=1&s=170667a&w=0&k=20&c=IHQDbRrgQsbDABVu00IUztIdgj6IRjwFylWQPq9qi6I=
+daal tarka,"peas, garam masala, ginger, onions, kasuri methi",vegetarian,spicy,main course,10,30,https://media.istockphoto.com/id/1134459558/photo/indian-dish-of-potato-and-french-beans.jpg?b=1&s=170667a&w=0&k=20&c=JrL723wLH2GrGrtCCf9zMIefvReOlEiZ-jJPuJJ2olE=
+dum aloo,"potatoes, garam masala, cashews, kasuri methi, tomatoes",vegetarian,spicy,main course,20,50,https://media.istockphoto.com/id/1256914416/photo/dum-aloo-indian-food.jpg?b=1&s=170667a&w=0&k=20&c=HY48XrAlLqSW-amO-7bck81TKk8qzuaLM9fP_IxqbcU=
+flattened rice ,"beaten rice flakes, potatoes, curry leaves, green chillies, lemon juice",vegetarian,spicy,snack,20,30,https://media.istockphoto.com/id/1252408718/photo/puffed-rice-poha-uncooked-or-raw-selective-focus.jpg?b=1&s=170667a&w=0&k=20&c=VvGjta1_PMg_cqP3pos8Cszm_TITmtZMHSlRSBg8_t0=
+chanay papar,"chana daal, flour, arhar daal, urad daal, garam masala",vegetarian,spicy,snack,10,60,https://media.istockphoto.com/id/1250628291/photo/black-chickpea-chaat-or-kala-chana-chat-recipe.jpg?b=1&s=170667a&w=0&k=20&c=yvoBoknH-KjwwP0Kivltv0mBjuEWsFiuMVx5epmOtE8=
+kachori,"moong daal, rava, garam masala, dough, fennel seeds",vegetarian,spicy,snack,30,60,https://media.istockphoto.com/id/1399566543/photo/kachori-with-kadhi.jpg?b=1&s=170667a&w=0&k=20&c=KhY5zRmybWeECqyfdQ7d1VuepyNogYX-hr2nnKjeuoI=
+karahi,"cottage cheese, bell peppers, gravy, garam masala, cashews",vegetarian,spicy,main course,20,30,https://media.istockphoto.com/id/1351251007/photo/overhead-shot-of-indian-culinary-in-little-pan.jpg?b=1&s=170667a&w=0&k=20&c=7dq0W6ap659TTTCfWAAoWt-pmVahA0x4YYXxfLp-wrM=
+karhi,"besan, garam masala, gram flour, ginger, curry leaves",vegetarian,spicy,main course,10,60,https://media.istockphoto.com/id/1443660424/photo/homemade-punjabi-kadhi-pakora.jpg?b=1&s=170667a&w=0&k=20&c=tjL5rvd_ebKKs7Rt9xsZ8gZHSWXPDWJM84D8p8_HwUk=
+karela bharta,"bitter gourd, fennel, garam masala, chillies, amchur powder",vegetarian,bitter,main course,20,50,https://media.istockphoto.com/id/856126390/photo/stuffed-bitter-gourd.jpg?b=1&s=170667a&w=0&k=20&c=u6Por0Y5aWrIMavVgPFUalZEyRoiONg7YXuzFOpv2wM=
+khichri,"moong daal, green peas, ginger, tomatoes, green chillies",vegetarian,spicy,main course,40,20,https://media.istockphoto.com/id/1331625898/photo/khichdi-or-khichadi-a-popular-indian-recipe-the-food-is-made-of-dal-or-lentils-and-rice.jpg?b=1&s=170667a&w=0&k=20&c=q0BIswBYxgfyIDOihwMiXZZOYjSR904MPQp7X7j6ZT8=
+kofta,"paneer, potatoes, cream, corn flour, garam masala",vegetarian,spicy,main course,20,40,https://media.istockphoto.com/id/1397648059/photo/malai-kofta-curry.jpg?b=1&s=170667a&w=0&k=20&c=Z8B84I7Z6Ct6DWdn-UOnjkspGBAFKE1Yym5D3ZBCd70=
+kulfi falooda,"rose syrup, falooda sev, mixed nuts, saffron, sugar",vegetarian,sweet,dessert,45,25,https://media.istockphoto.com/id/1409874457/photo/mixed-falooda.jpg?b=1&s=170667a&w=0&k=20&c=8AfbgD8n5n21qLLWsPT2Ys-gD3-rKGgPaDg17Yqk3mo=
+lauki kofte,"bottle gourd, garam masala, gram flour, ginger, chillies",vegetarian,spicy,main course,20,40,https://media.istockphoto.com/id/1429338836/photo/lauki-ke-kofte.jpg?b=1&s=170667a&w=0&k=20&c=LrslGZ2gjml8Us1KS9mTD8pBfOKiHfUchIy2Y-G47Eo=
+lauki sabzi,"bottle gourd, oil, garam masala, ginger, green chillies",vegetarian,spicy,main course,10,20,https://media.istockphoto.com/id/1453118134/photo/lauki-doodhi-ki-sookhi-sabji-also-known-as-bottle-gourd-dry-curry-recipe.jpg?b=1&s=170667a&w=0&k=20&c=O4BEQZy-92XAHUkHDVNEiNTmmbvzF-nLPXRaUYRdPT0=
+stuffed wheat balls,"flour, gram flour, tomatoes, nigella seeds, chillies",vegetarian,spicy,main course,45,60,https://media.istockphoto.com/id/1425897881/photo/meat-kibbeh-with-salad-served-in-a-dish-closeup-side-view-on-grey-background.jpg?b=1&s=170667a&w=0&k=20&c=kxFebaKsGAk0fIiMOeSyX1YT1xiOHVPtjDufXx5IY8E=
+makki di roti sarson da saag,"mustard, makki flour, mustard green, garam masala, ginger",vegetarian,spicy,main course,25,30,https://media.istockphoto.com/id/1056466672/photo/sarson-da-saag.jpg?b=1&s=170667a&w=0&k=20&c=ljzULOQNkQbUZcrrOMksffbq8FSLoPP1fPFuXwh5FVk=
+spicy roti,"flour, gram flour, green chillies",vegetarian,spicy,main course,30,30,https://media.istockphoto.com/id/996188546/photo/assorted-indian-food-for-lunch-or-dinner-rice-lentils-paneer-dal-makhani-naan-chutney-spices.jpg?b=1&s=170667a&w=0&k=20&c=fj6kMsslbI0riow0P3k-m4k78e7OCg0q8Bwg4JzcB4E=
+mushrooms do pyaza,"mushrooms, malai, garam masala, ginger, capsicum",vegetarian,spicy,main course,10,30,https://media.istockphoto.com/id/1449448871/photo/mushroom-do-pyaza.jpg?b=1&s=170667a&w=0&k=20&c=G-AKreOTuJtx-utSH5DrhiwEgeGw8T2GtYaEy1AFfGk=
+mushrooms matar,"coconut milk, frozen green peas, mushrooms, garam masala, tomatoes",vegetarian,spicy,main course,10,30,https://media.istockphoto.com/id/910074096/photo/creamy-fenugreek-mushroom-peas-curry.jpg?b=1&s=170667a&w=0&k=20&c=n8fz0JM4J0r6-XBfm6yxb_MyAXGpdHgYMWXOOVPxlXI=
+naan,"flour, honey, butter, garlic",vegetarian,other,main course,60,30,https://media.istockphoto.com/id/183564340/photo/close-up-photograph-of-a-pile-of-plain-naan-flatbreads.jpg?b=1&s=170667a&w=0&k=20&c=_nyPP-6adudkCLAR3eaYdDMc-AJ1IOEZItT5ADalnBg=
+green beans korma,"green beans, potatoes, khus khus, low fat, garam masala",vegetarian,spicy,main course,25,40,https://media.istockphoto.com/id/928364712/photo/indian-vegetarian-curry-vegetable-korma-copyspace-top-view.jpg?b=1&s=170667a&w=0&k=20&c=DJ4OoTs990fJez5cbPFgZUFBAkueN6vGD-EQBTqI7ok=
+palak paneer,"cottage cheese, palak, cream, garam masala, butter",vegetarian,spicy,main course,20,40,https://media.istockphoto.com/id/1396307254/photo/palak-paneer-and-tandoori-roti.jpg?b=1&s=170667a&w=0&k=20&c=sSeV1cpg4zSqc_X0Kf_dULQUVBIQdj_EtpFD3Dkx_v0=
+paneer butter masala,"paneer, cream, garam masala, cashews, butter",vegetarian,spicy,main course,20,40,https://media.istockphoto.com/id/178899560/photo/paneer-butter-masala-in-metal-bowl.jpg?b=1&s=170667a&w=0&k=20&c=YxVzWPHS7eZdCTBp5pTuNbkMAidCdwQaQZ_zJZgAPq8=
+paneer tikka masala,"paneer, greek yoghurt, tandoori masala, cream, bell peppers",vegetarian,spicy,main course,20,40,https://media.istockphoto.com/id/1417407351/photo/traditional-indian-cuisine-assorted-indian-food-on-table-in-restaurant-appetizers-and-dishes.jpg?b=1&s=170667a&w=0&k=20&c=Wn3LZQH0bOTs0PvY8QUpM20LJIIu7XDgoEjvN0UJfUM=
+pani puri,"kala chana, potatoes, boondi, sev, lemon",vegetarian,spicy,snack,15,2,https://media.istockphoto.com/id/1301949603/photo/homemade-panipuri-golgappe-popular-nepali-indian-street-snacks.jpg?b=1&s=170667a&w=0&k=20&c=wpbLYHZ9odMGPXv_R0Vbd3nDV_FkvQrdm0EV1CobZJY=
+panjeeri,"flour, musk melon seeds, poppy seeds, edible gum, semolina",vegetarian,sweet,dessert,10,25,https://media.istockphoto.com/id/503402487/photo/panjeeri-in-clay-pot.jpg?b=1&s=170667a&w=0&k=20&c=UBC7Yi4ooDDzEDICvEQX1ja8RfuekyGSotNix-h1yZM=
+papar,"urad daal, sev, lemon juice, tomatoes",vegetarian,spicy,snack,5,5,https://media.istockphoto.com/id/1425970464/photo/food.jpg?b=1&s=170667a&w=0&k=20&c=BuAK8CbS3yo5nvkTsEMA3XIOB9JGT_R0GQFEnYqvYPs=
+paratha,"flour, butter, potatoes, coriander",vegetarian,spicy,main course,15,45,https://media.istockphoto.com/id/618764348/photo/famous-asian-flat-bread-known-as-parathas.jpg?b=1&s=170667a&w=0&k=20&c=cAU66rVrYQAi_ggWz7DWsCgLj_EBOPlGksYglTGInWA=
+arivi sabzi,"arvi, sesame seeds, gur, imli",vegetarian,spicy,main course,10,30,https://media.istockphoto.com/id/1223622191/photo/arvi-ki-sabzi.jpg?b=1&s=170667a&w=0&k=20&c=P7emVRZbi78PaLaJfOMjskf8cneUX1ad5NDHA_bnPyQ=
+methi chana,"fennel, tea bags, tomatoes, methi, cinnamon",vegetarian,spicy,main course,500,120,https://media.istockphoto.com/id/1356304174/photo/pyaz-ki-sabji-methi-or-besan-ki-roti.jpg?b=1&s=170667a&w=0&k=20&c=_YsHshqRa71qSeo46V3-nmr30ImJA_hrfi3T1dITFk0=
+rajma chawal,"red kidney beans, garam masala, ginger, tomatoes, oil",vegetarian,spicy,main course,15,90,https://media.istockphoto.com/id/1432801316/photo/rajma-chawal-is-a-popular-north-indian-food-rajma-is-a-socked-red-kidney-beans-cooked-with.jpg?b=1&s=170667a&w=0&k=20&c=PcTEG5eVTl9sSRg0ZP1cJJre-lptRLreiBBnMBK0BWc=
+lobia,"garam masala, tomatoes, kasuri methi, cinnamon, oil",vegetarian,other,main course,10,30,https://media.istockphoto.com/id/1436499880/photo/lobia-qeema-or-lobiya-keema-served-in-a-plate-isolated-on-background-top-view-of-indian-and.jpg?b=1&s=170667a&w=0&k=20&c=fkuh4KPniDxX3EL-_Jd0Z6XhUqLQff7fVi4HSSOS9a4=
+samosa,"potatoes, green peas, garam masala, ginger, dough",vegetarian,spicy,snack,30,30,https://media.istockphoto.com/id/1350389050/photo/close-up-image-of-wooden-chopping-board-full-of-fried-samosas-stuffed-with-spiced-potato-peas.jpg?b=1&s=170667a&w=0&k=20&c=myHN-SUC7lYHjpTbH76qu4vTj98lEQwhqcWmCvQ1It8=
+sattu ki roti,"sattu, flour, dough, filling, oil",vegetarian,spicy,main course,10,20,https://media.istockphoto.com/id/1329814367/photo/sattu-ka-paratha-or-gram-flor-paratha-a-famous-north-indian-breakfast.jpg?b=1&s=170667a&w=0&k=20&c=xqvoWsz157y5SHIiI9YOOmfM5zVfSEmmq_GYKro9ZRc=
+shahi paneer,"cottage cheese, malai, garam masala, ginger, tomatoes",vegetarian,spicy,main course,20,40,https://media.istockphoto.com/id/1334542191/photo/paneer-pasanda-indian-food-in-rich-cashewnut-and-saffron-gravy.jpg?b=1&s=170667a&w=0&k=20&c=sgeME5_f81HLWsXwBmhlcVMG0coy1jpKP8Wx91H2jdg=
+shahi tukra,"rose water, milk, bread, saffron, almonds",vegetarian,sweet,dessert,10,30,https://media.istockphoto.com/id/1406502895/photo/shahi-tukra-or-double-meetha-served-in-dish-isolated-on-dark-background-top-view.jpg?b=1&s=170667a&w=0&k=20&c=Jo05XfvBbVfUuu2Z-tlmymv2ulhixnCV_yay3IVRnPY=
+vegetable jalfrezi,"corn, french beans, garam masala, ginger, carrots",vegetarian,spicy,main course,10,30,https://media.istockphoto.com/id/1346002172/photo/indian-food-of-chicken-jalfrezi-tikka.jpg?b=1&s=170667a&w=0&k=20&c=4yCx95bat_hiNgoq3oeJFFav545bGR2SpHvUVZHle0M=
+tandoori chicken,"greek yoghurt, garam masala, kasuri methi, marinade, oil",non vegetarian,spicy,main course,240,30,https://media.istockphoto.com/id/1363311536/photo/tandoori-chicken.jpg?b=1&s=170667a&w=0&k=20&c=uGbISwNH_tzdC6EK5l8jMR7JTsK-ZssarVHRdLhZGGc=
+tandoori fish tikka,"gram flour, biryani masala, yoghurt, fish filletss, green bell peppers",non vegetarian,spicy,starter,240,30,https://media.istockphoto.com/id/1022778136/photo/chicken-and-fish-tikka-kabab-pune-india.jpg?b=1&s=170667a&w=0&k=20&c=mCfm3T9CCuDstxyE-VOyxwCZq9PVXkmvPR3mSFlWtFE=
+dosa,"flour, arhar daal, ginger, kala zeera, green chillies",vegetarian,spicy,snack,150,25,https://media.istockphoto.com/id/1318600400/photo/plain-dosa-dish.jpg?b=1&s=170667a&w=0&k=20&c=A-HkE1es3twBv-lHO__wDQSJXrGps043RUh392XXZBM=
+boiled banana curry,"banana, long beans, urad daal",vegetarian,spicy,main course,30,45,https://media.istockphoto.com/id/482952097/photo/smoothie-with-curd-and-banana.jpg?b=1&s=170667a&w=0&k=20&c=TvEeUscVY1Cmat3mLdBuv18U2p7vQMwk7N7KPQEeVmg=
+hot lentil rice ,"pigeon peas, chana daal, urad daal, green peas, french beans",vegetarian,spicy,main course,30,45,https://media.istockphoto.com/id/529139494/photo/lentils-and-rice-with-crispy-onions-and-parsley.jpg?b=1&s=170667a&w=0&k=20&c=-CVhUhdl4yangw_EWQSIARU18gcPSEvexNnnKTu8ChY=
+curry pulao,"chana daal, urad daal, coconut, sesame seeds, curry leaves",vegetarian,spicy,main course,10,20,https://media.istockphoto.com/id/1267463513/photo/chicken-biryani-rice.jpg?b=1&s=170667a&w=0&k=20&c=9mXQKBLQv1Uj8_cYu1-63I_lr0GUCFI-dethluoYtxY=
+cheese dosa,"chana daal, urad daal, urad daal, rice, rock salt, cheese",vegetarian,spicy,snack,360,90,https://media.istockphoto.com/id/1313232107/photo/gluten-free-red-lentil-panckes-with-feta-cheese.jpg?b=1&s=170667a&w=0&k=20&c=Dpx0ZkoWL3jcjvMDBF_cJAqzWXOW_PLLAMa1RZxAxq8=
+rice noodles,"rice flour, water, coconut",vegetarian,spicy,snack,120,30,https://media.istockphoto.com/id/155433564/photo/rice-noodles.jpg?b=1&s=170667a&w=0&k=20&c=Un2d_SSJEh-0MJGNPf1lkoQm6k5A52a4QGdBEbQmbwY=
+savoury rice cake,"urad daal, urad daal, idli rice, rock salt",vegetarian,spicy,snack,360,90,https://media.istockphoto.com/id/1337387395/photo/puffed-rice-cakes-on-wooden-background.jpg?b=1&s=170667a&w=0&k=20&c=VbW719bZe3ecHkLD8_IGFw75wwyJTiQuljgTwaSDwpA=
+rice daal,"rice, carrots, mustard, red chillies, black salt",vegetarian,other,snack,10,45,https://media.istockphoto.com/id/1383955774/photo/macro-closeup-of-orange-curry-healthy-coconut-squash-dal-indian-yellow-split-peas-sauce-food.jpg?b=1&s=170667a&w=0&k=20&c=lC7-6_y_xorF0afxgB6QtupyfOexJNjGiLsUe3ttExM=
+vegetable gravy,"oil, drumsticks, tamarind paste, sambar powder, tomatoes",vegetarian,spicy,main course,30,40,https://media.istockphoto.com/id/1348136577/photo/traditional-thanksgiving-sides.jpg?b=1&s=170667a&w=0&k=20&c=Ly1umcfnnB2t0ePo3ghqYEYw2hgIndBGpxsbDYLyYN4=
+spinach moong daal,"moong daal, chana daal, spinach, urad daal, oil",vegetarian,spicy,main course,20,30,https://media.istockphoto.com/id/1172612723/photo/famous-indian-punjabi-dish-i-e-roasted-dal-with-spinach-in-a-glass-plate-on-the-wooden.jpg?b=1&s=170667a&w=0&k=20&c=BRAm3YbmzKKUaVb-hk48uV9bZlasgPTJMzimEIuPLjU=
+spinach stew,"urad daal, curry leaves, sugar, mustard seeds, spinach",vegetarian,spicy,main course,25,30,https://media.istockphoto.com/id/1284958894/photo/creamy-tuscan-chicken-with-sun-dried-tomatoes-spinach-and-parmesan.jpg?b=1&s=170667a&w=0&k=20&c=1qAAKlTCj9MhIC0iMxfjNISA87E7yiDOceXAwyPrZ30=
+spinach daal,"tomatoes, mustard seeds, fenugreek seeds,spinach,daal",vegetarian,spicy,main course,10,20,https://media.istockphoto.com/id/1269732365/photo/coconut-red-lentil-dahl-with-baked-turmeric-cauliflower-and-sweet-potato.jpg?b=1&s=170667a&w=0&k=20&c=JkqWRUkbDB_1Lwv3bR6OkxclBRQafdrKJBej8SwXoB0=
+spinach salad,"amaranth leaves, urad daal, mustard seeds, grated coconut, red chillies,spinach",vegetarian,spicy,main course,20,30,https://media.istockphoto.com/id/184944296/photo/green-salad-with-strawberries-and-spinach.jpg?b=1&s=170667a&w=0&k=20&c=14-6lTY07xFwTgpkmDptXq4DeYa-YjR8x_ievia6BD0=
+beef fry,"beef, coconut, garam masala, curry leaves, green chillies, chillies",non vegetarian,spicy,main course,10,60,https://media.istockphoto.com/id/536616025/photo/medium-rare-steak.jpg?b=1&s=170667a&w=0&k=20&c=O4PzJUWwh-0Mb-D7vwdCPkpU_s-06Y_5V1ATK-Eo6Ts=
+vegetable stew,"chana daal, urad daal, potatoes, beans, peas",vegetarian,spicy,main course,10,15,https://media.istockphoto.com/id/1391084788/photo/vegetable-stew.jpg?b=1&s=170667a&w=0&k=20&c=Ei9HrR65q0mPL-fcqx3wFPdKGJKsx49vi68RHHHhnG0=
+cabbage stew,"moong daal, chana daal, cabbage, tamarind, curry leaves",vegetarian,spicy,main course,10,20,https://media.istockphoto.com/id/1019241542/photo/young-and-fresh-cabbage-cooked-with-bacon-cubes.jpg?b=1&s=170667a&w=0&k=20&c=Sz17XgM0uzLXx8P4DOTVhXDA99DfwNTO_c7ZP_V3kLE=
+vegetable salad,"moong daal, cucumber, curry leaves, green chillies, lemon juice",vegetarian,spicy,main course,10,20,https://media.istockphoto.com/id/931135150/photo/leaf-vegetable-salad-with-smoked-salmon.jpg?b=1&s=170667a&w=0&k=20&c=S9QCgUHIq6Kbg-lyTkuUdJnbvVAeH2BeZ_6TyLuVDrs=
+coriander rice,"chana daal, urad daal, gooseberry, rice, curry leaves,coriander",vegetarian,spicy,main course,10,20,https://media.istockphoto.com/id/1313361282/photo/mexican-rice-and-chorizo-sausage-wrap.jpg?b=1&s=170667a&w=0&k=20&c=73b_FsGhw76OMrWpMp-1h-9PyO37HbztLqvrSU8zfU8=
+steamed coconut dumplings,"oil, rice, jaggery, grated coconut",vegetarian,spicy,main course,10,90,https://media.istockphoto.com/id/1409208643/photo/modak-indian-sweet-dumpling.jpg?b=1&s=170667a&w=0&k=20&c=SNgKnZ4nUiMWkxmJepkfhTvwdLyLkaULmMH6suGDCic=
+tamarind curry,"pearl onions, urad daal, drumsticks, tomatoes, curry leaves,tamarind",vegetarian,spicy,main course,5,30,https://media.istockphoto.com/id/1422326139/photo/close-up-image-of-pile-of-boiled-white-rice-puri-and-bowls-of-chutney-and-dips-on-metal-thali.jpg?b=1&s=170667a&w=0&k=20&c=WbyXI-OXy8HMfYgAkZNgTh1yZu_34cFUVspVugV6AFk=
+masala dosa,"chana daal, urad daal, potatoes, idli rice, thick poha",vegetarian,spicy,snack,360,90,https://media.istockphoto.com/id/1450442562/photo/south-indian-food-served-in-a-white-plate.jpg?b=1&s=170667a&w=0&k=20&c=jchKWAqL9dayV8aNX112igDSrJHDYXQ1t4NSvNbfnXU=
+coconut pickle ,"oil, cucumber, curd, curry leaves, mustard seeds",vegetarian,other,main course,10,25,https://media.istockphoto.com/id/512962225/photo/khao-soi.jpg?b=1&s=170667a&w=0&k=20&c=88gFfyLXVJFeMHNysDyaLIim6IY6kWco1tj5BeWgYzc=
+fried rice lentil dumplings,"yoghurt, ginger, curry leaves, baking soda, green chillies",vegetarian,other,main course,10,20,https://media.istockphoto.com/id/1453781816/photo/large-portion-of-chinese-foods.jpg?b=1&s=170667a&w=0&k=20&c=5gb990PvzFOSTjv2SaLbf5JNwbvVQZ4xyWdgvgr70M8=
+lentil crackers,"lentils, black pepper, oil",vegetarian,spicy,snack,5,5,https://media.istockphoto.com/id/843183164/photo/wholegrain-and-dietary-fiber-food-on-white-background.jpg?b=1&s=170667a&w=0&k=20&c=iW4MfUD-N7mHs2Vrh7M5C1PQM5MlXClhwtharBPb_u4=
+lemon kheer,"rice,  khoya, milk,lemon ",vegetarian,spicy,main course,20,40,https://media.istockphoto.com/id/1279476947/photo/lemon-curd.jpg?b=1&s=170667a&w=0&k=20&c=BJP1WzYM-IYzWXiFNrznzm5BFi6uWSZKGbUxub6Vm9c=
+choco pie,"rice, cashews, milk, raisins, sugar,flour, cake mix, chocolate",vegetarian,sweet,dessert,15,30,https://media.istockphoto.com/id/1169488627/photo/choco-pie-chocolate-isolated-on-white-background.jpg?b=1&s=170667a&w=0&k=20&c=MQ_UCmqsXU0cfZJO0F9Ip2IGAjnYeOA8fqtszfMIl_c=
+one pot rice,"arhar daal, sambar powder, tomatoes, curry leaves, fennel seeds,rice",vegetarian,other,main course,10,20,https://media.istockphoto.com/id/1433381759/photo/cooking-tasty-rice-and-vegetable-mix-with-corn-pea-beans-in-pan-on-kitchen.jpg?b=1&s=170667a&w=0&k=20&c=_JNw4dMeFyY2fCgx4ZK4aoabpY8qTG96IMt1EpuG3_8=
+moong beans crepe,"green moong beans, rice flour",vegetarian,spicy,snack,120,20,https://media.istockphoto.com/id/1364649462/photo/close-up-image-of-pile-of-crispy-yellow-split-mung-bean-fritters-on-stainless-steel-thali.jpg?b=1&s=170667a&w=0&k=20&c=21crR6oDKbrYwhO2qfVfdfCuy65HXhRpuByL5xKWbH0=
+stir fry coconut rice,"chana daal, urad daal, beans, coconut, mustard,rice",vegetarian,spicy,main course,30,40,https://media.istockphoto.com/id/1383955774/photo/macro-closeup-of-orange-curry-healthy-coconut-squash-dal-indian-yellow-split-peas-sauce-food.jpg?b=1&s=170667a&w=0&k=20&c=lC7-6_y_xorF0afxgB6QtupyfOexJNjGiLsUe3ttExM=
+tamarind rice,"urad daal, lemon, tamarind, rice, curry leaves",vegetarian,other,main course,10,20,https://media.istockphoto.com/id/1432250405/photo/tamarind-poha-or-puli-aval.jpg?b=1&s=170667a&w=0&k=20&c=FtyujwBNzZZoCbowFgle0evYCRKpYP_-nk0IxKoxHDM=
+tomato soup,"tomatoes, curry leaves, garlic, mustard seeds, water",vegetarian,spicy,main course,10,35,https://media.istockphoto.com/id/1334868479/photo/bowl-of-tomato-soup-isolated-on-white-background-top-view.jpg?b=1&s=170667a&w=0&k=20&c=iRcclyn9BAIhfEoFAnOpgnhH5CyCN3q81Efeaosqe9c=
+portioned rice rolls,"rice flour, sugar, coconut",vegetarian,other,main course,495,40,https://media.istockphoto.com/id/1025470788/photo/vegan-rice-paper-spring-rolls.jpg?b=1&s=170667a&w=0&k=20&c=V7hRSF03Le4lZjreRHzkoYcSIakljUzLxwI4Ep1dX0Y=
+cauliflower porridge,"pigeon peas, eggsplant, drumsticks, sambar powder, tamarind, cauliflower",vegetarian,spicy,main course,20,45,https://media.istockphoto.com/id/472840948/photo/creamy-cauliflower-garlic-rice.jpg?b=1&s=170667a&w=0&k=20&c=dJgSAuAsFBRKjwf8XqiSSestxDk6F18euyV8g9YXH4Y=
+cheese papar,"thin rice flakes, black sesame seeds, curry leaves,cheese",vegetarian,other,main course,120,60,https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlZXNlJTIwcGFwcGFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60
+siwai,"sevai, parboiled rice, steamer",vegetarian,other,main course,120,30,https://media.istockphoto.com/id/1193312328/photo/seviyan-or-vermicelli-kheer-an-indian-dessert-made-of-semolina-noodles-topped-with-rose.jpg?b=1&s=170667a&w=0&k=20&c=-6h-hHTjLNnMRG2bNhi5OMsUV0AkdxJVrxGPcf_TWws=
+curd rice,"urad daal, curd, oil, ginger, curry leaves, mustard seeds,rice",vegetarian,other,main course,10,20,https://media.istockphoto.com/id/1066283008/photo/indian-thaali-meal.jpg?b=1&s=170667a&w=0&k=20&c=Uiw6kSNbLZGa5n0YDvXlF4_F_22XSswFeFGGRk9i2do=
+red bean soup,"coconut, red beans, masala, oil, tamarind",vegetarian,other,main course,15,20,https://media.istockphoto.com/id/967254382/photo/red-bean-or-azuki-bean-soup-popular-dessert-in-malaysia.jpg?b=1&s=170667a&w=0&k=20&c=qxs6qwZLJ-JLQgXNDjaZfioQbpPRANc10yVA9Xj7JGM=
+savoury pancake,"chana daal, urad daal, thick poha, tomatoes, butter",vegetarian,spicy,snack,10,20,https://media.istockphoto.com/id/1330604424/photo/macro-closeup-side-view-of-stack-of-buttermilk-pancakes-on-plate-as-traditional-breakfast.jpg?b=1&s=170667a&w=0&k=20&c=LTEp5V3tgPEoDSZCGF1-ykSftPN_4eXY-SaXKDTrqJY=
+potato cutlets,"urad daal, ginger, curry leaves, green chillies, black pepper,potatoes",vegetarian,spicy,snack,15,20,https://media.istockphoto.com/id/1290088963/photo/tuna-and-potato-cutlets-with-spinach-and-greek-yogurt-on-a-dark-background-top-view.jpg?b=1&s=170667a&w=0&k=20&c=xuoAhDJNzoZNP9rKjXadVtXxw6JFOWSLZ2QSToanBn0=
+chicken stir fry,"meat curry powder, chicken, ginger, tomatoes, cinnamon",non vegetarian,spicy,main course,10,35,https://media.istockphoto.com/id/157439126/photo/chicken-and-vegetable-stir-fry.jpg?b=1&s=170667a&w=0&k=20&c=e1BJA6x4fPBn8rTGG_za1F4v2hB7VSy6ByvwXc4-S54=
+upma,"chana daal, urad daal, ginger, curry leaves, sugar",vegetarian,spicy,snack,10,20,https://media.istockphoto.com/id/1420751833/photo/upma-uppumavu-or-uppittu-is-a-dish-originating-from-the-indian-subcontinent.jpg?b=1&s=170667a&w=0&k=20&c=TODz7CV6_UhC9mkwVfKm_0QMzDbN7AwLymUXp06cBfU=
+sweet and sour daal,"kala masala, arhar daal, curry leaves, mustard seeds, water",vegetarian,spicy,main course,10,45,https://media.istockphoto.com/id/1130228942/photo/indian-dal-traditional-indian-soup-lentils-indian-dhal-spicy-curry-in-bowl-spices-herbs.jpg?b=1&s=170667a&w=0&k=20&c=m4y2gI7FgAufBV_H30OffwLqm-ey3n7RyaD6LeD93Zo=
+spicy gram flour,"gram flour, mustard, garlic, turmeric, red chillies",vegetarian,spicy,main course,10,25,https://media.istockphoto.com/id/1206257311/photo/bread-pakora.jpg?b=1&s=170667a&w=0&k=20&c=Po6ROrmUL_ku8wV-M3jtPFFLiTW9jb7oHoMYyVlabRs=
+prawn salad,"prawns, oil, coconut, ginger",non vegetarian,spicy,main course,30,45,https://media.istockphoto.com/id/1070938206/photo/shrimp-salad-with-tomato-olives-and-cashew-nuts.jpg?b=1&s=170667a&w=0&k=20&c=gOwt1ujQat8T6oiTd5kBbVlxlJs_kjNvKf-kiw1DpGs=
+suji dumplings,"urad daal, potatoes, flour, suji",vegetarian,spicy,main course,20,40,https://media.istockphoto.com/id/1333794748/photo/kajjikayalu-is-a-traditional-telugu-delicacy-from-andhra-pradesh-south-india.jpg?b=1&s=170667a&w=0&k=20&c=OB9HPkRhq5uaI8u59QLnRU4hXZdjcAsSvdYwiZqhedU=
+bajray rooti,"flour, millet flour",vegetarian,spicy,main course,10,10,https://media.istockphoto.com/id/1156279807/photo/bajra-sorghum-ki-roti-or-pearl-millet-flat-bread.jpg?b=1&s=170667a&w=0&k=20&c=c6tPwKE2OSBQbQRkbQsIldbV5_8PB-9_zEAAuYrm1m4=
+coconut barfi,"condensed milk, mawa, desiccated coconut, almonds, cashews",vegetarian,sweet,dessert,20,30,https://media.istockphoto.com/id/1433316355/photo/white-coconut-fudge-in-a-shell-of-coconut.jpg?b=1&s=170667a&w=0&k=20&c=kMqYyUesPAaUff6-4PCtpKsKuPwhtJipOJu3JxTD6HQ=
+steamed flatbread,"jowar flour, sesame seeds",vegetarian,other,main course,20,25,https://media.istockphoto.com/id/1331913776/photo/lebanese-flatbread-isolated-on-white-background.jpg?b=1&s=170667a&w=0&k=20&c=DdaYrl2PgfPaI7TDfV5RVdbejZCQ08b33MxP1_mHYio=
+fried duck soup,"bombay duck, malvani masala, rice flour, green chillies",non vegetarian,spicy,main course,30,50,https://media.istockphoto.com/id/1439710631/photo/duck-noodles-with-stewed-duck-soup.jpg?b=1&s=170667a&w=0&k=20&c=oJkzyWwKTodL3Rlt72k_GA-n9opR6mU9pcZfHNxUKkA=
+spiral sweet rolls,"rice flour, sesame, flour, turmeric, red chillies",vegetarian,spicy,snack,10,40,https://media.istockphoto.com/id/1356248011/photo/morning-rolls.jpg?b=1&s=170667a&w=0&k=20&c=rV4JsgDDjj454hrPWmOatV79eH6xNnY5Aa2V4XFrMj0=
+fried potato crisps,"potatoes,salt, pepper",vegetarian,spicy,snack,20,30,https://media.istockphoto.com/id/878283374/photo/potato-crisps.jpg?b=1&s=170667a&w=0&k=20&c=mUNo6LVWbY_JEEKHrGI967h9RSfqG--6cfQdYV9FiHI=
+cholay papar,"urad daal, gram flour, dried mango, baking soda, black salt",vegetarian,spicy,snack,5,15,https://media.istockphoto.com/id/1225531414/photo/delicious-fresh-chick-pea-curry.jpg?b=1&s=170667a&w=0&k=20&c=GLVcBy1YFXm3r9t62Bn9rIk42gLt9hq1tiVGvdIt-_Q=
+khopra barfi,"condensed milk, nestle cream, coconut ice, red food coloring, desiccated coconut",vegetarian,other,main course,20,30,https://media.istockphoto.com/id/1156447832/photo/khopara-pak-or-coconut-burfi.jpg?b=1&s=170667a&w=0&k=20&c=Pj2pybc3XUWNwbAL30cVTt62yQAtUDZpbLZzTO2lHjQ=
+daal cake,"flour, daal, kokum, gur, gram flour",vegetarian,spicy,main course,20,30,https://media.istockphoto.com/id/1296809718/photo/dry-nuts-cake.jpg?b=1&s=170667a&w=0&k=20&c=BBTYzMqJ6ylIeBmOeusvlDGPaXJ2Oi-HVMP-miokVvs=
+potato stuffed bun,"pav, potatoes, peanuts, pomegranate, star anise",vegetarian,spicy,snack,30,10,https://media.istockphoto.com/id/1443030673/photo/burger-in-bun-with-cheese-and-vegetable-garnish.jpg?b=1&s=170667a&w=0&k=20&c=vcoEw6IGxcbV0bANZlmH4XgMDml11hse2yl4zE1tUR8=
+dahi baray,"urad daal, bhuna chana, garam masala, dates, tamarind, yoghurt",vegetarian,other,snack,30,30,https://media.istockphoto.com/id/1320934356/photo/traditional-food.jpg?b=1&s=170667a&w=0&k=20&c=5hwJ69aX8-TMFwcgwky-LoU_b_--f5p_JLtgPbSrZjk=
+lentil daal,"lentils, oil, curry leaves, mustard seeds, red chillies",vegetarian,other,main course,5,20,https://media.istockphoto.com/id/1406734975/photo/indian-dal-food-and-homemade-flatbread-chapati-traditional-indian-soup-lentils-indian-dhal.jpg?b=1&s=170667a&w=0&k=20&c=Lu9tEQvbe9h4wITk3K9IPjW5SxF2szXtePR6GJY3YPU=
+savoury coconut cake,"coconut, gram flour, mustard, sesame",vegetarian,spicy,snack,10,20,https://media.istockphoto.com/id/1409394869/photo/homemade-durian-mousse-cake.jpg?b=1&s=170667a&w=0&k=20&c=U99OWR72EqDAn5wUH7F6ZcXjGrOsjIaYnOTXI4onQF4=
+dudhi halwa,"bottle gourd, raisins, sugar, clarified butter",vegetarian,spicy,main course,15,30,https://media.istockphoto.com/id/1124639594/photo/indian-sweet-dish-bottle-gourd-barfi.jpg?b=1&s=170667a&w=0&k=20&c=giHFkaI-37IzeZ1Ca35SSH4fm7b1IcL1C_HAHfSf_m4=
+butter chicken stew,"yoghurt, besan, sauce, garam masala, gram flour,chicken, butter",vegetarian,spicy,main course,10,20,https://media.istockphoto.com/id/889602780/photo/butter-chicken-curry-inside-karahi-indian-serving-dishes-north-indian-food.jpg?b=1&s=170667a&w=0&k=20&c=Z48vbtuyirLU0hFuJ1P5UPHe_qGZNTMJJONECG6mCnk=
+gur papri,"flour, jaggery, clarified butter, almonds",vegetarian,sweet,dessert,10,20,https://media.istockphoto.com/id/1126075755/photo/image-of-traditional-indian-street-food-papri-chaat-chat-papri-in-new-delhi-india.jpg?b=1&s=170667a&w=0&k=20&c=nkZuBLfyp744WbjIVqnvwHZxpVk5GMeUMHt7vmyy7-g=
+sweet samosa,"dry fruits, semolina, flour",vegetarian,spicy,snack,20,30,https://media.istockphoto.com/id/1156466548/photo/sweet-samosa.jpg?b=1&s=170667a&w=0&k=20&c=wtIyM1OD7n_whpyc_lORN6Pl1HFmymu6wHLbyo2_HDw=
+vegetable cake,"bottle gourd, chana daal, cabbage, urad daal, toor daal",vegetarian,spicy,snack,20,30,https://media.istockphoto.com/id/1059549530/photo/mushroom-pie.jpg?b=1&s=170667a&w=0&k=20&c=a50Uv-C1knmUimT8i57x8WqpZAO5XxfrVNA6FD_4h_o=
+halwa roll,"rava, chia seed, lemon, edible gum, milk",vegetarian,sweet,dessert,60,120,https://media.istockphoto.com/id/1366840403/photo/turkish-delight-pastille-roll-with-sherbet-and-nuts-sweet-dessert-soft-focus.jpg?b=1&s=170667a&w=0&k=20&c=xwVaS3ZSv9zQYAU3HFL9cO-mtH9aVzkmFfMM8t_x_Ng=
+zeera aloo,"green chillies, lemon juice, chillies, potatoes",vegetarian,spicy,main course,10,30,https://media.istockphoto.com/id/480813778/photo/potato-puri-paratha.jpg?b=1&s=170667a&w=0&k=20&c=3m13ziKzLs4c1lVYfB3COCAdGQnKuezCTeFz1oJz7MU=
+cashews delight,"flour, cashews, oil",vegetarian,other,main course,10,40,https://media.istockphoto.com/id/1434177332/photo/traditional-turkish-delicacies-varieties-of-turkish-delight.jpg?b=1&s=170667a&w=0&k=20&c=WhJuOBudqBIgj4J425YUlpFCTL3A5VI-c5l4dAA13dc=
+aam ras,"mango, sugar",vegetarian,sour,main course,10,10,https://media.istockphoto.com/id/1325423600/photo/mango-pulp-aam-rus-or-ras-served-in-small-bowls.jpg?b=1&s=170667a&w=0&k=20&c=YVPbYPLVaRqq2jyOZzQ6CIV8YjXTcsovAyixcJYqlcA=
+spicy papar,"flour, low fat, gram flour",vegetarian,spicy,snack,20,40,https://media.istockphoto.com/id/1157917034/photo/salty-snacks-pretzels-chips-crackers.jpg?b=1&s=170667a&w=0&k=20&c=aQ87F9uttz-b14DjiweUY0vbvODKPiFsZM5W6vEKPAg=
+gram flour rolls,"green chillies, sesame seeds, gram flour, curry leaves",vegetarian,spicy,snack,20,45,https://media.istockphoto.com/id/1336429913/photo/khandvi-a-traditional-gujrati-indian-food-served-as-a-breakfast-or-brunch.jpg?b=1&s=170667a&w=0&k=20&c=CPPkl-69dL--e7BIpPpuu0VoQsWK3YzY5rXG6ltJrII=
+peppercorn curry,"rice flour, urad daal, flour, gram flour, turmeric, peppercorn",vegetarian,spicy,snack,10,25,https://media.istockphoto.com/id/176886766/photo/coconut-milk-corn-curry.jpg?b=1&s=170667a&w=0&k=20&c=-mulXUsf7vZ7CEgRzGgmb5wiDS04DONJ0ZAdVDSBZsE=
+ghee stuffed rolls,"cinnamon, jaggery, clarified butter, dry roasted",vegetarian,spicy,main course,10,40,https://media.istockphoto.com/id/888366454/photo/chicken-wrap.jpg?b=1&s=170667a&w=0&k=20&c=z7J-1rgr3Uth63YSqqA-aUyVRODTRikevtl5c9Uw7jQ=
+veggie yoghurt salad,"cucumber, carrots, tomatoes, cilantro",vegetarian,spicy,main course,10,10,https://media.istockphoto.com/id/1056787708/photo/sauce-of-yogurt-with-herbs-spices-and-cucumber-close-up-on-the-table-raita-horizontal-top-view.jpg?b=1&s=170667a&w=0&k=20&c=I7BnH0NJZdqymBLgDf6aJs0OfxT8Mx2iUCIBpEPGyOY=
+methi laddoo,"gram flour, lemon juice, turmeric, fenugreek leaves",vegetarian,bitter,main course,15,30,https://media.istockphoto.com/id/849575528/photo/laddu-sweet-food.jpg?b=1&s=170667a&w=0&k=20&c=wmd8hJhgkNn2IwK8w0rvu0Z1PIqZ2G6v3MQglOSiekY=
+almond confectionary sweet,"rose water, pistachios, almonds, gram flour, saffron",vegetarian,sweet,dessert,5,45,https://media.istockphoto.com/id/513070847/photo/raw-organic-almond-butter.jpg?b=1&s=170667a&w=0&k=20&c=770uo4tDeISRC3FiA1qx8FSTJ4NL_J87IN7DtBd09mA=
+fenugreek rolls,"bottle gourd, flour, rava, sesame seeds, gram flour,fenuugreek",vegetarian,bitter,snack,15,30,https://media.istockphoto.com/id/1330523145/photo/whole-wheat-methi-thepla-rolls-with-paneer-capsicum-filling-and-a-bowl-of-masala-curd.jpg?b=1&s=170667a&w=0&k=20&c=2jTn-hRtESJV_mB7LxmtQcuiGYBX32QEbgJMqnZjwXI=
+patra,"arbi ke patte, sesame seeds, gur, gram flour, imli",vegetarian,spicy,snack,10,40,https://media.istockphoto.com/id/1410485660/photo/indian-spicy-food-patra-or-pattod.jpg?b=1&s=170667a&w=0&k=20&c=NNzvE9RIRcDBrduqrRpl25wsjxPWBJ-Yys6UdDtoE2U=
+pao bhaji,"pao bhaji masala, gobi, potatoes, green peas, dinner rolls",vegetarian,spicy,main course,20,40,https://media.istockphoto.com/id/1449996663/photo/pao-bhajji-and-pasta-in-a-restaurent-buffet-counter-food-stock-photo.jpg?b=1&s=170667a&w=0&k=20&c=3S_xx4Kb2WXtKoBWECBwNBBfnmHNIusqcNDv4_54lfQ=
+puri bhaji,"potatoes, urad daal, mustard, ginger, curry leaves",vegetarian,spicy,main course,10,30,https://media.istockphoto.com/id/1251649602/photo/puri-and-potato-curry-aalu-sabji-close-up-of-an-indian-cuisine-in-round-plate.jpg?b=1&s=170667a&w=0&k=20&c=tMi9Tfn0URQSEMHPZkpM_QifMoUA0DIHsTESSSx5UDc=
+sabudana khichri,"peanuts, sabudana, lemon, oil, curry leaves, green chillies",vegetarian,spicy,snack,70,30,https://media.istockphoto.com/id/907618200/photo/sabudana-khichdi-is-a-light-dish-made-with-sabudana.jpg?b=1&s=170667a&w=0&k=20&c=QgswovEl0D6_bwY2HjZPEigRQt8Q37AKuL61JgTj6h8=
+chickpeas seo,"pomegranate, seo, chickpeas",vegetarian,spicy,main course,20,30,https://media.istockphoto.com/id/1316824320/photo/healthy-quinoa-black-bean-salad-with-mango-and-avocado.jpg?b=1&s=170667a&w=0&k=20&c=Xq-xjKDbSk5-Ca42QbhtpIdQkZJqdzqiWdU0rX71WIA=
+tomato seo,"seo, ginger, tomatoes",vegetarian,spicy,main course,20,30,https://media.istockphoto.com/id/1179371965/photo/custom-made-lunch-with-meat-and-potatoes.jpg?b=1&s=170667a&w=0&k=20&c=ey7YmLMxkAxevkct7gvND55JjjxlQ5cvb6_tsjmZ8i4=
+namakpara,"flour, baking soda, flour, black pepper, sunflower oil",vegetarian,spicy,snack,10,35,https://media.istockphoto.com/id/1142151319/photo/namak-para-a-fried-snack-from-pakistan-and-india.jpg?b=1&s=170667a&w=0&k=20&c=IQvgHM-ye276AcmnIKHoZO4oPBbFpcYGoKjE7Kqxvfo=
+gur kheer,"flour, gur, clarified butter",vegetarian,sweet,dessert,10,20,https://media.istockphoto.com/id/1323127487/photo/close-up-of-a-famous-bengali-dessert-nolen-gurer-chanar-payesh-or-milk-pudding-of-cottage.jpg?b=1&s=170667a&w=0&k=20&c=rh2p61ULJSQw87ijWV0Cd2YiPNs1e4_hhTdpJ-eZDLc=
+lemon dosa,"rice flakes, yoghurt, rice, jaggery, grated coconut,lemon",vegetarian,spicy,snack,60,10,https://media.istockphoto.com/id/89157340/photo/indian-meal-food-cuisine-vegetarian-dosa-with-asparagus-curry.jpg?b=1&s=170667a&w=0&k=20&c=isUML_vo0f94sxrXi-GoVQ0iM9UvASy2e0OhCN-UcD4=
+multigrain bread,"flour, rice flour, millet flour, sesame seeds",vegetarian,spicy,main course,25,30,https://media.istockphoto.com/id/474679296/photo/organic-homemade-whole-wheat-bread.jpg?b=1&s=170667a&w=0&k=20&c=9teWkqZ8j2yCXtgnIbuiwyATSmnuea8ZXaomhcSmXxA=
+mixed vegetable stew,"potatoes, surti papdi, potatoes, valor papdi, green peas",vegetarian,spicy,main course,25,60,https://media.istockphoto.com/id/1453042405/photo/stew-without-meat-stew-of-mixed-vegetables-meal-served.jpg?b=1&s=170667a&w=0&k=20&c=NCUJzDj_L1gPz67PRlcntlpEJm9ApR0wRiFiOEgzDZ8=
+ved gravy,"gobi, potatoes, beans, khus khus, coconut",vegetarian,spicy,main course,20,30,https://media.istockphoto.com/id/516816608/photo/homemade-slow-cooker-pot-roast.jpg?b=1&s=170667a&w=0&k=20&c=NwSb7dSdOlapzoauOTcvq1NJdosvSdMlZRJfJJ4xvKY=
+vindaaloo,"chicken, oil, vinegar, ginger, cinnamon",non vegetarian,spicy,main course,10,40,https://media.istockphoto.com/id/639389404/photo/authentic-indian-food.jpg?b=1&s=170667a&w=0&k=20&c=Ae3RLr6jG3nabjcGwT8pwvnEtjO34_XOH0SaoZk8hNM=
+garlic kachori,"green garlic chutney, green peas, ginger, lemon juice, flour",vegetarian,spicy,snack,30,6,https://media.istockphoto.com/id/501535239/photo/potato-pakora.jpg?b=1&s=170667a&w=0&k=20&c=hXAtUH92Ub4N8vFXPPg2rtxfQjwytU2YSg_etS6nESQ=
+chana daal,"moong beans, jaggery, red chillies, oil, salt, chickpeas, daal",vegetarian,spicy,snack,10,40,https://media.istockphoto.com/id/1205482038/photo/dal-tadka-cooked-lentils-which-are-lastly-tempered-with-oil-or-ghee-fried-spices-herbs.jpg?b=1&s=170667a&w=0&k=20&c=Fkh1zBqlehNOuUjobMprXy6854hXVh8xEXjPx2BhroQ=
+sesame seed papar,"rice flour, sesame seeds, baking soda, oil",vegetarian,spicy,snack,5,10,https://media.istockphoto.com/id/1443184066/photo/close-up-image-of-row-of-four-uncooked-home-made-traditional-cornish-pasties-on-greaseproof.jpg?b=1&s=170667a&w=0&k=20&c=WBqwzncGX_jkw_lKz73ZADIGhyOHOpeJJrozyTINvmY=
+paratha aloo,"potatoes, flour",vegetarian,spicy,snack,15,30,https://media.istockphoto.com/id/1279134622/photo/image-of-metal-tray-with-aloo-paratha-pile-topped-with-red-onion-rings-and-sprinkle-of.jpg?b=1&s=170667a&w=0&k=20&c=D3LrWpU6-9aBk99CJvemXljpcNeUKt5yecJNs67Ek_A=
+paratha daal," flour, black pepper,daal",vegetarian,other,snack,20,20,https://media.istockphoto.com/id/1334283985/photo/home-made-indian-flatbread-with-curry-paste.jpg?b=1&s=170667a&w=0&k=20&c=MVWjV08qoT3KRNKg4jcCIN-fLM_2t8TZQ5XDgH1kcxE=
+paratha methi,"methi, gram flour",vegetarian,spicy,snack,10,20,https://media.istockphoto.com/id/1413556592/photo/a-food-called-methi-paratha-or-methi-thepla-is-an-indian-breakfast-dish-served-with-curd.jpg?b=1&s=170667a&w=0&k=20&c=vBJktNAfn9pYDt0rZyQeY5veB-i1w4s4Lvn_a_y5vCQ=
+paratha butter,"gram flour, butter",vegetarian,spicy,main course,35,40,https://media.istockphoto.com/id/1421273269/photo/a-food-called-methi-paratha-or-methi-thepla-is-an-indian-breakfast-dish-served-with-curd-and.jpg?b=1&s=170667a&w=0&k=20&c=Z5F4eOktLfL2Wo3cmXPePFiim6bOC-JanjWE9EjvKM8=
+churma ladoo,"flour, khus khus, sesame seeds, dry coconut, gur",vegetarian,sweet,dessert,12,40,https://media.istockphoto.com/id/656948090/photo/rajasthani-churma-ladoo.jpg?b=1&s=170667a&w=0&k=20&c=fnrR_8ABCrxqoC5ymJmHntvU59oJ7rcyUlmXMpVgccE=
+mango pie,"rice, mango, curd, cake mix",vegetarian,sweet,dessert,40,60,https://media.istockphoto.com/id/1262663343/photo/tropical-fruit-dessert-mango-tart.jpg?b=1&s=170667a&w=0&k=20&c=OD7dLv8HjSH9trC1v4zosQnr9kGEy2cAOMYGpSpBmTo=
+geela pitha,"rice, rice flour, jaggery, orange",vegetarian,sweet,dessert,10,30,https://media.istockphoto.com/id/1448372016/photo/traditional-turkish-lahmacun-pita-with-ground-beef-in-istanbul-turkey.jpg?b=1&s=170667a&w=0&k=20&c=2-sAwuarsVp8JLmR3MlViPkCg3ci1lW1I7xvVXB85sA=
+nihari,"chicken,spices, corn flour",non vegetarian,spicy,main course,10,20,https://media.istockphoto.com/id/1453499719/photo/tasty-chicken-nihari-served-in-plate-isolated-on-table-top-view-indian-spicy-food.jpg?b=1&s=170667a&w=0&k=20&c=5tVmedR0qaNO5f39P0MDjtH5vZTKmugcx1Nhvvp6kiY=
+kabuli pulao,"rice, beef, saffron, spices",non vegetarian,spicy,main course,120,130,https://media.istockphoto.com/id/1411959136/photo/indian-spicy-food-chicken-afghani-tikka-biryani-or-reshmi-chicken-tikka-biryani-with-raita.jpg?b=1&s=170667a&w=0&k=20&c=MVSWPZHKWrscKzTKvq8MptbkeMEFYIr6sgcV9PZ3zaI=
+haleem,"chicken , chickpeas, onions",non vegetarian,spicy,main course,20,30,https://media.istockphoto.com/id/1361270450/photo/haleem.jpg?b=1&s=170667a&w=0&k=20&c=fNkQ7OGIyJCUkEeLX0ZqLAUbwMEKL2osoOhMjnPghcU=
+mango lassi,"mango, milk, curd",non vegetarian,sweet,snack,5,20,https://media.istockphoto.com/id/1136089414/photo/buttermilk-mango-and-turmeric-indian-beverage.jpg?b=1&s=170667a&w=0&k=20&c=Ir6vlE5zxNofMP4K5lAuoy_vGCQG9sQnzV73cw7yKDU=
+strawberry lassi,"strawberry, milk, sugar, curd",non vegetarian,sweet,main course,15,25,https://media.istockphoto.com/id/1086568532/photo/strawberry-banana-smoothie-in-a-tall-glass.jpg?b=1&s=170667a&w=0&k=20&c=2Hk2CUDXdry6H57cdbw7p_PlK55SYTGPZBJtmxR0pSU=
+malai boti ,"yoghurt, chicken, spices",non vegetarian,spicy,main course,70,90,https://media.istockphoto.com/id/1440067851/photo/spicy-tandoori-chicken-tikka-boti-kabab-with-bread-lemon-and-salad-served-in-dish-isolated-on.jpg?b=1&s=170667a&w=0&k=20&c=2I6vO6ykUVNjjay_rnXM8fQZ9Tdh81i3tLtXDHy3CyM=
+tikka boti,"chicken, spices, garlic, yoghurt",non vegetarian,spicy,main course,10,20,https://media.istockphoto.com/id/182660514/photo/indian-barbecue.jpg?b=1&s=170667a&w=0&k=20&c=hUHynzWcrUZjnmlsjOcbVzRgcNRbyfX53o4eCig7mng=
+black rice,"forbidden black rice, chicken, oil, almonds, garlic",non vegetarian,other,main course,20,49,https://media.istockphoto.com/id/1395535072/photo/black-rice-in-wooden-bowl-isolated-on-white.jpg?b=1&s=170667a&w=0&k=20&c=GiFqk4bvH4SAUJ58kVkLBFifyjZFNPsuAAfSTIrJ-ww=
+beef biryani,"biryani masala, spices, beef, ",vegetarian,spicy,main course,60,80,https://media.istockphoto.com/id/1407172002/photo/indian-spicy-mutton-biryani-with-raita-and-gulab-jamun-served-in-a-dish-side-view-on-grey.jpg?b=1&s=170667a&w=0&k=20&c=iv0meLCwQWhte3vw8Q4xdoL1gF2D3EexqylYdCmUhF0=
+brown rice,"brown rice, soy sauce, oil",vegetarian,other,main course,15,25,https://media.istockphoto.com/id/939929350/photo/earthen-pot-rice-japanese-traditional-cooking.jpg?b=1&s=170667a&w=0&k=20&c=3uXwOxkkUFEgUwed77IGubvnPstvYErBNMgVq8LFnuY=
+malai curry,"coconut milk, lobster, green chillies, ginger, onions",non vegetarian,spicy,main course,10,40,https://media.istockphoto.com/id/1397648059/photo/malai-kofta-curry.jpg?b=1&s=170667a&w=0&k=20&c=Z8B84I7Z6Ct6DWdn-UOnjkspGBAFKE1Yym5D3ZBCd70=
+buttered delights,"baking soda, clarified butter, oil, flour",vegetarian,sweet,dessert,20,60,https://media.istockphoto.com/id/1159465053/photo/home-made-pastry-delights-donuts.jpg?b=1&s=170667a&w=0&k=20&c=1HxxZEQ8bD1pqVJeOydapJ63GHDxdq5U0o47UGKAnYU=
+siwayaian,"vermicelli, milk, cardamom, pistachios",vegetarian,sweet,dessert,35,60,https://media.istockphoto.com/id/175207017/photo/singapore-fried-rice-vermicelli.jpg?b=1&s=170667a&w=0&k=20&c=rXg3f2OVaZ_qNCfXOF8cGJn51NEMRf1oz6SrG2wSZRQ=
+lamb curry,"lamb, garam masala, curd, turmeric, bay leaf",non vegetarian,spicy,main course,20,40,https://media.istockphoto.com/id/540119192/photo/curry-and-rooti.jpg?b=1&s=170667a&w=0&k=20&c=64pphmD0qDok_Mua5zda08XycgGQTqUtpVnEy8RhKwk=
+sajji,"chicken, garlic, chillies, potatoes",non vegetarian,other,main course,15,30,https://media.istockphoto.com/id/1360201294/photo/sajji.jpg?b=1&s=170667a&w=0&k=20&c=YjSIq9jHaunf4-W7wb5RtnpJ5H3FTFVLFe-vjhrjcCA=
+fish fillet,"fish, besan, lemon, mint, ginger",non vegetarian,spicy,main course,45,60,https://media.istockphoto.com/id/510534973/photo/pan-fried-tilapia-with-asian-slaw-and-roasted-potatoes.jpg?b=1&s=170667a&w=0&k=20&c=ZMenYIcevZETx0WpqosZop4CvMtzDS83L3CIvrO3GdA=
+seekh kabab,"lamb, onions, garlic, coriander",vegetarian,spicy,main course,60,60,https://media.istockphoto.com/id/501027041/photo/behrai-kabab-1.jpg?b=1&s=170667a&w=0&k=20&c=IJXEyntLXpfk96qDYJ_pTeMj_wKC5urifosI0lXGKQM=
+chapli kabab,"beef, spices, yoghurt, coriander",non vegetarian,spicy,main course,20,40,https://media.istockphoto.com/id/501137055/photo/chapli-kabab-11.jpg?b=1&s=170667a&w=0&k=20&c=TBSHA6G5JT0zDfp1uwxv8ub8BgyK7yWOnVYQ5r0bvh8=
+potato stew,"potatoes, tomatoes, oil, bay leaf, cinnamon stick",non vegetarian,spicy,main course,30,30,https://media.istockphoto.com/id/494154858/photo/hot-homemade-corn-chowder.jpg?b=1&s=170667a&w=0&k=20&c=HMzQ14_WsX5d7p5QscIEHZyU6MhTzA5yCHMrd6Pb8TE=
+duck stew,"rice flour,duck, gram flour, oil",non vegetarian,spicy,main course,30,55,https://media.istockphoto.com/id/1325748608/photo/cantonese-cuisines-like-tenderloin-chee-cheong-fun-sweet-and-sour-fried-eggs-and-steamed-rice.jpg?b=1&s=170667a&w=0&k=20&c=ZqxaKsFAHzEMWzInV2XYNLP3c-3qShySgvkoytK0xPw=
+masor daal,"fish roe, pumpkin, oil, turmeric, tomatoes",non vegetarian,spicy,main course,15,45,https://media.istockphoto.com/id/495455834/photo/red-lentil-indian-soup-with-flat-bread-masoor-dal.jpg?b=1&s=170667a&w=0&k=20&c=YU2MAC9eLU2WMKpiUQSPMLDgILQUI6OuPL4sihwAFOk=
+daal fry,"chana daal, coconut, ginger, cinnamon, raisins",vegetarian,sweet,main course,10,30,https://media.istockphoto.com/id/585796696/photo/yellow-lentil-soup-or-arhar-daal.jpg?b=1&s=170667a&w=0&k=20&c=Qm1gfxip9-PUZ1gZUql7FPi97MmYCC_jzwfxkvLZvTc=
+chicken reshmi handi,"curd, rice, curry leaves, dry chillies, chicken, garlic, ",vegetarian,other,main course,35,60,https://media.istockphoto.com/id/1441726864/photo/chicken-tikka-masala-or-butter-chicken-makhani-served-in-handi-isolated-on-table-side-view-of.jpg?b=1&s=170667a&w=0&k=20&c=LyL8apA_H7pN5mFrnUdJ9g-wyVL8aI_HMgKF9barcLY=
+pani pitha,"tea leaves, sesame seeds, dry coconut, rice",vegetarian,other,main course,10,20,https://images.unsplash.com/photo-1598259427452-9ab41d51041d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGFuaSUyMHBpdGhhJTIwZGlzaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
+saffron pulao,"rice, rose water, sugar, clarified butter, cardamom pods, saffron",vegetarian,sweet,dessert,30,40,https://media.istockphoto.com/id/1406565221/photo/shrimp-biryani-with-raita-and-sauce-served-in-a-dish-isolated-on-grey-background-side-view.jpg?b=1&s=170667a&w=0&k=20&c=eCstjegrI5c2uzhgFOHu6OcAT7HQ2SUgp7IPVtz2jjk=
+prawn malai curry,"coconut milk, prawns, garlic, turmeric, sugar",non vegetarian,spicy,main course,15,50,https://media.istockphoto.com/id/529126582/photo/grilled-tiger-prawns-rice-and-malai-curry-sauce.jpg?b=1&s=170667a&w=0&k=20&c=5bbK--1VHRkEFlB9HkdC6l_NwuF7JjkRTEOt67HH15Q=
+red rice,"red pepper, onions, butter, watercress, oil",vegetarian,other,main course,15,30,https://media.istockphoto.com/id/693824358/photo/mexican-red-rice-plate.jpg?b=1&s=170667a&w=0&k=20&c=MEMI8NyoZA__Y3OifQzBMIsipSru19dkvmhVsvg3mjk=
+curry,"green beans, bitter gourd, ridge gourd, banana, brinjal",vegetarian,spicy,main course,10,20,https://plus.unsplash.com/premium_photo-1669831178095-005ed789250a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y3Vycnl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60
+til pitha,"black sesame seeds, gur",vegetarian,sweet,dessert,5,30,https://images.unsplash.com/photo-1609326780671-93b6665c8b87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGlsJTIwcGl0aGF8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60
+coconut cream pudding,"coconut milk, eggs, clarified butter, flour",vegetarian,sweet,dessert,20,60,https://images.unsplash.com/photo-1671523557643-b80db31443d0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29jb251dCUyMGNyZWFtJTIwcHVkZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
+dates delight,"cottage cheese, dry dates, dried rose petals, pistachios, almonds",vegetarian,sweet,dessert,30,30,https://images.unsplash.com/photo-1586985288348-b3b4b1a50b58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGRhdGVzJTIwZGVsaWdodCUyMGRpc2h8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60
+orange mil delight,"orange,milk powder, dry fruits, arrowroot powder, flour",vegetarian,sweet,dessert,20,45,https://images.unsplash.com/photo-1617806501441-2a4a45c5316c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8b3JhbmdlJTIwZGVsaWdodCUyMGRpc2h8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60
+pulao,"rice, fennel seeds, chicken, grated coconut, black pepper, ginger, green chillies, chicken",vegetarian,sweet,main course,30,120,https://media.istockphoto.com/id/1447698436/photo/veg-pulao-or-kashmiri-pulao-in-a-white-bowl-isolated-on-wooden-texture-background-with-copy.jpg?b=1&s=170667a&w=0&k=20&c=n8ugVrF9s88HZVPi49EAaRz29INP5PhvNKU2FZxWw8Y=
