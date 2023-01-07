@@ -108,6 +108,9 @@ def initialize():
     return (ingredients, courses, X_dict, X, y)
 
 
+def getFoodDetails(name):
+    return df[df.name == name]
+
 def train(X, y):
     # Fitting the model
     rfc = RandomForestClassifier(n_jobs=-1, max_features= 'sqrt' ,n_estimators=100, oob_score = False) 

@@ -1,6 +1,6 @@
 from flask import Flask, render_template, jsonify, request
 import pickle
-from model import transform_input, getFoodName, initialize
+from model import transform_input, getFoodName, initialize, getFoodDetails
 import numpy as np
 
 app = Flask(__name__)
@@ -30,5 +30,17 @@ def get_ingredients():
         "ingredients": ingredients
     }
     return jsonify(response)
+
+
+@app.get("/food/<string:name>")
+def get_food(name):
+    food = getFoodDetails(name)
+    name = (food.name.values[0]).capitalize()
+    ingredients = (food.ingredients.values[0]).split(",")
+    ingredients = list(map(str.strip, ingredients))
+    ingredients = list(map(str.title, ingredients))
+    return render_template("food.html", name=name, ingredients=ingredients)
+
+
 if __name__ == "__main__":
     app.run(debug=True)
