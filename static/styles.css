@@ -25,6 +25,13 @@ body {
     color: red;
 }
 
+.food {
+    text-decoration: none;
+    color:rgb(43, 43, 43)
+}
+
 .food:hover {
-    color: blue
+    color: black;
+    text-decoration: solid;
+    text-shadow: 1px 1px 1px gray, 2px 2px 1px gray;
 }
