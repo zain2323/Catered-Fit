@@ -84,24 +84,45 @@ def getFoodName(foodIdList, X_dict):
 def get_food_from_idx(df, index):
     return df[df.index == index]["name"].values[0]
 
-def get_food_idx(df, name_list):
-    ids = []
-    for food in name_list:
-        cnt = 0
-        for name in df["name"]:
-            if food == name:
-                ids.append(cnt)
-            cnt += 1 
-    return ids
+# def get_food_idx(df, name_list):
+#     ids = []
+#     for food in name_list:
+#         cnt = 0
+#         for name in df["name"]:
+#             if food == name:
+#                 ids.append(cnt)
+#             cnt += 1 
+#     return ids
+
+def get_food_idx(df, food):
+    cnt = 0
+    for name in df["name"]:
+        if food == name:
+            return cnt
+        cnt += 1 
+    return -1
+
+def get_similar_foods(name):
+    cv = CountVectorizer()
+    count_matrix = cv.fit_transform(df["ingredients"])
+    cosine_sim = cosine_similarity(count_matrix)
+    id = get_food_idx(df, name)
+    similar = []
+    similar_foods = list(enumerate(cosine_sim[id]))
+    similar_foods = sorted(similar_foods,  key=lambda x:x[1], reverse=True)
+    i = 0
+    for food in similar_foods:
+        if i > 8:
+            break
+        similar.append(get_food_from_idx(df, food[0]))
+        i += 1
+    return similar[1:]
 
 def initialize():
     ingredients = unique_ingredients(df)
     courses = unique_course(df)
     dataframe, X_dict = get_encoded_label(df)
     X = df[df.columns[0]].values
-    cv = CountVectorizer()
-    count_matrix = cv.fit_transform(df["ingredients"])
-    cosine_sim = cosine_similarity(count_matrix)
     dataframe = hot_encoding(dataframe, courses, ingredients)
     dataframe = remove_columns(dataframe)
     X, y = split_dataset(dataframe)

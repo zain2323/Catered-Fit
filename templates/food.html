@@ -26,25 +26,33 @@
                 <div class="row align-items-center mt-5">
                     <div class="col">
                         <h5>Prep time</h5>
-                        <p class="lead">5 minutes</p>
+                        <p class="lead">{{ prep_time }} minutes</p>
                     </div>
                     <div class="col">
                         <h5>Cook time</h5>
-                        <p class="lead">5 minutes</p>
+                        <p class="lead">{{ cook_time }} minutes</p>
                     </div>
                     <div class="col">
                         <h5>Ready in</h5>
-                        <p class="lead">5 minutes</p>
+                        <p class="lead">{{ prep_time + cook_time}} minutes</p>
                     </div>
                 </div>
                 </div>
                
             </div>
-            <!-- <div class="col-4 mt-5">
-                <h1 class="display-6">Directions</h1>
-                <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Error voluptatum laboriosam, aspernatur, laborum nulla hic quasi amet repellat mollitia consequuntur neque exercitationem reiciendis. Tenetur iste, provident blanditiis dolor laboriosam corporis?</p>
-            
-            </div> -->
+        <h1 class="display-6">You may also like</h1>
+        <div class="row mt-2 mb-2">
+            {% for recommended_food in recommended_foods %}
+                <div class="col-3 p-1">
+                    <div class="card custom-color" style="width: 11rem;">
+                    <img src="https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmlyeWFuaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60&w=500&h=350" class="card-img-top" alt="...">
+                        <a class="food" href="{{ url_for('get_food', name=recommended_food) }}"> 
+                        <h5 class="card-title mt-1 lead">{{ recommended_food }}</h5>
+                        </a>  
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
   
 </div>
     {% endblock content %}
@@ -53,17 +61,3 @@
 
 </script>
 {% endblock scripts%}
-
-<!-- 
-<div class="row align-items-center">
-    <div class="col">
-        <h5>Prep time</h5>
-    </div>
-    <div class="col">
-        <h5>Cook time</h5>
-    </div>
-    <div class="col">
-        <h5>Ready in</h5>
-    </div>
-  </div>
-  </div> -->

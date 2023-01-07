@@ -1,6 +1,6 @@
 from flask import Flask, render_template, jsonify, request
 import pickle
-from model import transform_input, getFoodName, initialize, getFoodDetails
+from model import transform_input, getFoodName, initialize, getFoodDetails, get_similar_foods
 import numpy as np
 
 app = Flask(__name__)
@@ -39,7 +39,11 @@ def get_food(name):
     ingredients = (food.ingredients.values[0]).split(",")
     ingredients = list(map(str.strip, ingredients))
     ingredients = list(map(str.title, ingredients))
-    return render_template("food.html", name=name, ingredients=ingredients)
+    prep_time = int(food.prep_time.values[0])
+    cook_time = int(food.cook_time.values[0])
+    # Recommended foods based on the current viewing dish
+    recommended_food = get_similar_foods(food.name.values[0])
+    return render_template("food.html", name=name, ingredients=ingredients, prep_time=prep_time, cook_time=cook_time, recommended_foods=recommended_food)
 
 
 if __name__ == "__main__":
