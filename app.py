@@ -15,8 +15,9 @@ def index():
 def predict():
     data = request.get_json()
     course = data["course"]
+    ocassion = data["ocassion"]
     my_ingredients = data["ingredients"]
-    encoded_input = transform_input(my_ingredients, course, courses, ingredients)
+    encoded_input = transform_input(my_ingredients, course, ocassion, courses, ingredients)
     probabilities = ml_model.predict_proba(encoded_input)
     predictions = np.argsort(-probabilities).flatten()
     top_5_foods = getFoodName(predictions[0:6], X_dict)

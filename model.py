@@ -23,7 +23,7 @@ def unique_ingredients(df):
 def unique_course(df):
     return df["course"].unique()
     
-def hot_encoding(df, courses, ingredients):
+def hot_encoding(df, courses, ingredients, ocassions):
     dataframe = df.copy()
     for course in courses:
         dataframe[course] = 0
@@ -31,6 +31,11 @@ def hot_encoding(df, courses, ingredients):
     for i in ingredients:
         dataframe[i] = 0
         dataframe.loc[dataframe.ingredients.str.contains(i), [i]] = 1
+    for ocassion in ocassions:
+        dataframe[ocassion] = 0
+        dataframe.loc[dataframe.ocassion.str.contains(ocassion), [ocassion]] = 1
+    # Giving 'any' column value of 1
+    df["any"] = 1
     return dataframe
 
 def encode_course(df, course, courses):
@@ -41,7 +46,7 @@ def encode_course(df, course, courses):
     return dataframe
 
 def remove_columns(df):
-    columns = ["name", "ingredients", "diet", "flavor_profile", "course"]
+    columns = ["name", "ingredients", "diet", "flavor_profile", "course", "images", "ocassion", "prep_time", "cook_time"]
     return df.drop(columns, axis=1)
 
 def get_encoded_label(df):
@@ -58,10 +63,10 @@ def split_dataset(dataframe):
   y = dataframe[dataframe.columns[0]].values
   return X, y
 
-def transform_input(input_ing, course, courses, ingredients):
+def transform_input(input_ing, input_course, input_ocassion, courses, ingredients):
     vec = []
-    for c in courses:
-        if c in course:
+    for course in courses:
+        if course in input_course:
             vec.append(1)
         else:
             vec.append(0)
@@ -70,6 +75,11 @@ def transform_input(input_ing, course, courses, ingredients):
             vec.append(1)
         else:
             vec.append(0)
+    for ocassion in ["eid_fitr", "eid_adha", "new_year", "any"]:
+        if ocassion in input_ocassion:
+            vec.append(1)
+        else:
+            vec.append(0)  
     vec = np.array(vec).reshape(1,-1)
     return vec
 
@@ -132,9 +142,10 @@ def get_similar_foods(name):
 def initialize():
     ingredients = unique_ingredients(df)
     courses = unique_course(df)
+    ocassions = ["eid_fitr", "eid_adha", "new_year", "any"]
     dataframe, X_dict = get_encoded_label(df)
     X = df[df.columns[0]].values
-    dataframe = hot_encoding(dataframe, courses, ingredients)
+    dataframe = hot_encoding(dataframe, courses, ingredients, ocassions)
     dataframe = remove_columns(dataframe)
     X, y = split_dataset(dataframe)
     return (ingredients, courses, X_dict, X, y)
@@ -147,7 +158,6 @@ def train(X, y):
     # Fitting the model
     rfc = RandomForestClassifier(n_jobs=-1, max_features= 'sqrt' ,n_estimators=100, oob_score = False) 
     rfc.fit(X,y)
-    print("I got trained")
 
     # Saving the model
     pickle.dump(rfc, open('trained-model.pkl','wb'))
