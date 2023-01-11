@@ -144,7 +144,6 @@ def initialize():
     courses = unique_course(df)
     ocassions = ["eid_fitr", "eid_adha", "new_year", "any"]
     dataframe, X_dict = get_encoded_label(df)
-    X = df[df.columns[0]].values
     dataframe = hot_encoding(dataframe, courses, ingredients, ocassions)
     dataframe = remove_columns(dataframe)
     X, y = split_dataset(dataframe)
@@ -156,7 +155,7 @@ def getFoodDetails(name):
 
 def train(X, y):
     # Fitting the model
-    rfc = RandomForestClassifier(n_jobs=-1, max_features= 'sqrt' ,n_estimators=100, oob_score = False) 
+    rfc = RandomForestClassifier(n_jobs=-1) 
     rfc.fit(X,y)
 
     # Saving the model
